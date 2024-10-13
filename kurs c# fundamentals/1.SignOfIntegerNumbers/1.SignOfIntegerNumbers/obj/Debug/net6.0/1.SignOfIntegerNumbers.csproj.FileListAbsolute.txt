@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\bin\Debug\net6.0\1.SignOfIntegerNumbers.exe
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\bin\Debug\net6.0\1.SignOfIntegerNumbers.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\bin\Debug\net6.0\1.SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\bin\Debug\net6.0\1.SignOfIntegerNumbers.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\bin\Debug\net6.0\1.SignOfIntegerNumbers.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\obj\Debug\net6.0\1.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\obj\Debug\net6.0\1.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\obj\Debug\net6.0\1.SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\obj\Debug\net6.0\1.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\obj\Debug\net6.0\1.SignOfIntegerNumbers.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\obj\Debug\net6.0\refint\1.SignOfIntegerNumbers.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\obj\Debug\net6.0\1.SignOfIntegerNumbers.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\obj\Debug\net6.0\1.SignOfIntegerNumbers.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\1.SignOfIntegerNumbers\obj\Debug\net6.0\ref\1.SignOfIntegerNumbers.dll

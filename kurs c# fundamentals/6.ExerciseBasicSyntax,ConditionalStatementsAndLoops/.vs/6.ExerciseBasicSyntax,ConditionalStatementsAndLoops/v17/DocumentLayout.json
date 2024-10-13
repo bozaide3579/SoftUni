@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{637A1373-15BB-4A8B-A985-D1890D74A24D}|08.TriangleOfNumbers\\08.TriangleOfNumbers.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# fundamentals\\6.exercisebasicsyntax,conditionalstatementsandloops\\08.triangleofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637A1373-15BB-4A8B-A985-D1890D74A24D}|08.TriangleOfNumbers\\08.TriangleOfNumbers.csproj|solutionrelative:08.triangleofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8AB039-1093-45A7-A34A-689A963D1FD5}|6.StrongNumber\\6.StrongNumber.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# fundamentals\\6.exercisebasicsyntax,conditionalstatementsandloops\\6.strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8AB039-1093-45A7-A34A-689A963D1FD5}|6.StrongNumber\\6.StrongNumber.csproj|solutionrelative:6.strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B81F343-FC89-49A9-9F0D-47B42D6AB15C}|07.VendingMachine\\07.VendingMachine.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# fundamentals\\6.exercisebasicsyntax,conditionalstatementsandloops\\07.vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B81F343-FC89-49A9-9F0D-47B42D6AB15C}|07.VendingMachine\\07.VendingMachine.csproj|solutionrelative:07.vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A138C5FA-79E0-4332-AD08-C5A40FEF3083}|5.Login\\5.Login.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# fundamentals\\6.exercisebasicsyntax,conditionalstatementsandloops\\5.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A138C5FA-79E0-4332-AD08-C5A40FEF3083}|5.Login\\5.Login.csproj|solutionrelative:5.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6A2261-CE8F-47FF-86E3-7DF957F42258}|1.Ages\\1.Ages.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# fundamentals\\6.exercisebasicsyntax,conditionalstatementsandloops\\1.ages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6A2261-CE8F-47FF-86E3-7DF957F42258}|1.Ages\\1.Ages.csproj|solutionrelative:1.ages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BCB574-1530-4E75-8CC8-2A6B6CAC8213}|4.PrintAndSum\\4.PrintAndSum.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# fundamentals\\6.exercisebasicsyntax,conditionalstatementsandloops\\4.printandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BCB574-1530-4E75-8CC8-2A6B6CAC8213}|4.PrintAndSum\\4.PrintAndSum.csproj|solutionrelative:4.printandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6BA30D-D32F-4648-ABE1-5E9163BF6F42}|3.Vacation\\3.Vacation.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# fundamentals\\6.exercisebasicsyntax,conditionalstatementsandloops\\3.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6BA30D-D32F-4648-ABE1-5E9163BF6F42}|3.Vacation\\3.Vacation.csproj|solutionrelative:3.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C850527-9A66-4E17-A59C-B3664BD5A427}|2.Division\\2.Division.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# fundamentals\\6.exercisebasicsyntax,conditionalstatementsandloops\\2.division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C850527-9A66-4E17-A59C-B3664BD5A427}|2.Division\\2.Division.csproj|solutionrelative:2.division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\08.TriangleOfNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "08.TriangleOfNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\08.TriangleOfNumbers\\Program.cs",
+              "RelativeToolTip": "08.TriangleOfNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:14:20.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\07.VendingMachine\\Program.cs",
+              "RelativeDocumentMoniker": "07.VendingMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\07.VendingMachine\\Program.cs",
+              "RelativeToolTip": "07.VendingMachine\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAUwF4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:14:20.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\6.StrongNumber\\Program.cs",
+              "RelativeDocumentMoniker": "6.StrongNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\6.StrongNumber\\Program.cs",
+              "RelativeToolTip": "6.StrongNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:14:20.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\5.Login\\Program.cs",
+              "RelativeDocumentMoniker": "5.Login\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\5.Login\\Program.cs",
+              "RelativeToolTip": "5.Login\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:14:20.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\4.PrintAndSum\\Program.cs",
+              "RelativeDocumentMoniker": "4.PrintAndSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\4.PrintAndSum\\Program.cs",
+              "RelativeToolTip": "4.PrintAndSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:14:20.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\3.Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "3.Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\3.Vacation\\Program.cs",
+              "RelativeToolTip": "3.Vacation\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAUwDYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:14:20.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\2.Division\\Program.cs",
+              "RelativeDocumentMoniker": "2.Division\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\2.Division\\Program.cs",
+              "RelativeToolTip": "2.Division\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:14:20.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\1.Ages\\Program.cs",
+              "RelativeDocumentMoniker": "1.Ages\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# fundamentals\\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\\1.Ages\\Program.cs",
+              "RelativeToolTip": "1.Ages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:14:20.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

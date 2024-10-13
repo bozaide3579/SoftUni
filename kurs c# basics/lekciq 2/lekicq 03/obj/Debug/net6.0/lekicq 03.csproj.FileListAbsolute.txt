@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\bin\Debug\net6.0\lekicq 03.exe
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\bin\Debug\net6.0\lekicq 03.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\bin\Debug\net6.0\lekicq 03.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\bin\Debug\net6.0\lekicq 03.dll
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\bin\Debug\net6.0\lekicq 03.pdb
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\obj\Debug\net6.0\lekicq 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\obj\Debug\net6.0\lekicq 03.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\obj\Debug\net6.0\lekicq 03.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\obj\Debug\net6.0\lekicq 03.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\obj\Debug\net6.0\lekicq 03.dll
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\obj\Debug\net6.0\refint\lekicq 03.dll
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\obj\Debug\net6.0\lekicq 03.pdb
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\obj\Debug\net6.0\lekicq 03.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lekicq 03\obj\Debug\net6.0\ref\lekicq 03.dll

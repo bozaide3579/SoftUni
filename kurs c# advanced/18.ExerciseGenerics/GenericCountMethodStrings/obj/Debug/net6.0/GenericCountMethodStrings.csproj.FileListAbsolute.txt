@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\obj\Debug\net6.0\refint\GenericCountMethodStrings.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\GenericCountMethodStrings\obj\Debug\net6.0\ref\GenericCountMethodStrings.dll

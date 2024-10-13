@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\bin\Debug\net8.0\2.StackSum.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\bin\Debug\net8.0\2.StackSum.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\bin\Debug\net8.0\2.StackSum.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\bin\Debug\net8.0\2.StackSum.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\bin\Debug\net8.0\2.StackSum.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\obj\Debug\net8.0\2.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\obj\Debug\net8.0\2.StackSum.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\obj\Debug\net8.0\2.StackSum.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\obj\Debug\net8.0\2.StackSum.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\obj\Debug\net8.0\2.StackSum.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\obj\Debug\net8.0\refint\2.StackSum.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\obj\Debug\net8.0\2.StackSum.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\obj\Debug\net8.0\2.StackSum.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\3.StackAndQueues\2.StackSum\obj\Debug\net8.0\ref\2.StackSum.dll

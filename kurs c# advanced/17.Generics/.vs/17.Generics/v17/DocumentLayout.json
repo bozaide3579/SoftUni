@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\17.Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1727FFC-9947-458C-9E25-7E9878B16A04}|GenericScale\\GenericScale.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\17.generics\\genericscale\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1727FFC-9947-458C-9E25-7E9878B16A04}|GenericScale\\GenericScale.csproj|solutionrelative:genericscale\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1727FFC-9947-458C-9E25-7E9878B16A04}|GenericScale\\GenericScale.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\17.generics\\genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1727FFC-9947-458C-9E25-7E9878B16A04}|GenericScale\\GenericScale.csproj|solutionrelative:genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75279DF9-4E36-42B5-8552-CB06AAEED5C6}|1.Box\\1.Box.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\17.generics\\1.box\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75279DF9-4E36-42B5-8552-CB06AAEED5C6}|1.Box\\1.Box.csproj|solutionrelative:1.box\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EqualityScale.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\17.Generics\\GenericScale\\EqualityScale.cs",
+              "RelativeDocumentMoniker": "GenericScale\\EqualityScale.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\17.Generics\\GenericScale\\EqualityScale.cs",
+              "RelativeToolTip": "GenericScale\\EqualityScale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:40:14.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\17.Generics\\GenericScale\\StartUp.cs",
+              "RelativeDocumentMoniker": "GenericScale\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\17.Generics\\GenericScale\\StartUp.cs",
+              "RelativeToolTip": "GenericScale\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:38:39.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\17.Generics\\1.Box\\Program.cs",
+              "RelativeDocumentMoniker": "1.Box\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\17.Generics\\1.Box\\Program.cs",
+              "RelativeToolTip": "1.Box\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:47:15.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

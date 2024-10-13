@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\11.FunctionalProgramming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E51436D1-1317-4F66-BFBF-85BE20A7D177}|1.SortEvenNumbers\\1.SortEvenNumbers.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\11.functionalprogramming\\1.sortevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51436D1-1317-4F66-BFBF-85BE20A7D177}|1.SortEvenNumbers\\1.SortEvenNumbers.csproj|solutionrelative:1.sortevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\11.FunctionalProgramming\\1.SortEvenNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "1.SortEvenNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\11.FunctionalProgramming\\1.SortEvenNumbers\\Program.cs",
+              "RelativeToolTip": "1.SortEvenNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:40:22.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA66976B-8AF5-4985-BAC8-BD19EB92F7BC}|03.NeedForSpeed3\\03.NeedForSpeed3.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep1\\03.needforspeed3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA66976B-8AF5-4985-BAC8-BD19EB92F7BC}|03.NeedForSpeed3\\03.NeedForSpeed3.csproj|solutionrelative:03.needforspeed3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD996CB-CCFE-4908-B8C4-9FEC2DEF7F08}|02.DestinationMapper\\02.DestinationMapper.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep1\\02.destinationmapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD996CB-CCFE-4908-B8C4-9FEC2DEF7F08}|02.DestinationMapper\\02.DestinationMapper.csproj|solutionrelative:02.destinationmapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77007883-EFD9-4E07-BA5A-0C522C5BD3AF}|01.TheImitationGame\\01.TheImitationGame.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep1\\01.theimitationgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77007883-EFD9-4E07-BA5A-0C522C5BD3AF}|01.TheImitationGame\\01.TheImitationGame.csproj|solutionrelative:01.theimitationgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77007883-EFD9-4E07-BA5A-0C522C5BD3AF}|01.TheImitationGame\\01.TheImitationGame.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep1\\01.theimitationgame\\01.theimitationgame.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{77007883-EFD9-4E07-BA5A-0C522C5BD3AF}|01.TheImitationGame\\01.TheImitationGame.csproj|solutionrelative:01.theimitationgame\\01.theimitationgame.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep1\\03.NeedForSpeed3\\Program.cs",
+              "RelativeDocumentMoniker": "03.NeedForSpeed3\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep1\\03.NeedForSpeed3\\Program.cs",
+              "RelativeToolTip": "03.NeedForSpeed3\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:12:54.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "01.TheImitationGame",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep1\\01.TheImitationGame\\01.TheImitationGame.csproj",
+              "RelativeDocumentMoniker": "01.TheImitationGame\\01.TheImitationGame.csproj",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep1\\01.TheImitationGame\\01.TheImitationGame.csproj",
+              "RelativeToolTip": "01.TheImitationGame\\01.TheImitationGame.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T18:05:01.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep1\\02.DestinationMapper\\Program.cs",
+              "RelativeDocumentMoniker": "02.DestinationMapper\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep1\\02.DestinationMapper\\Program.cs",
+              "RelativeToolTip": "02.DestinationMapper\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:58:19.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep1\\01.TheImitationGame\\Program.cs",
+              "RelativeDocumentMoniker": "01.TheImitationGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep1\\01.TheImitationGame\\Program.cs",
+              "RelativeToolTip": "01.TheImitationGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:31:00.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

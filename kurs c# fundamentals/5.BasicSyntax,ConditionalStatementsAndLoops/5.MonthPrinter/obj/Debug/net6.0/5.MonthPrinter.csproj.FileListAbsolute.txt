@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\bin\Debug\net6.0\5.MonthPrinter.exe
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\bin\Debug\net6.0\5.MonthPrinter.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\bin\Debug\net6.0\5.MonthPrinter.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\bin\Debug\net6.0\5.MonthPrinter.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\bin\Debug\net6.0\5.MonthPrinter.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\obj\Debug\net6.0\5.MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\obj\Debug\net6.0\5.MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\obj\Debug\net6.0\5.MonthPrinter.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\obj\Debug\net6.0\5.MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\obj\Debug\net6.0\5.MonthPrinter.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\obj\Debug\net6.0\refint\5.MonthPrinter.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\obj\Debug\net6.0\5.MonthPrinter.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\obj\Debug\net6.0\5.MonthPrinter.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\05.BasicSyntax,ConditionalStatementsAndLoops\5.MonthPrinter\obj\Debug\net6.0\ref\5.MonthPrinter.dll

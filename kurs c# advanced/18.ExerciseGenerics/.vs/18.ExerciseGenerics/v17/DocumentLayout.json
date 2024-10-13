@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B251F3-F723-42FD-BD73-CF1BE872A260}|Tuple\\Tuple.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\18.exercisegenerics\\tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B251F3-F723-42FD-BD73-CF1BE872A260}|Tuple\\Tuple.csproj|solutionrelative:tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B251F3-F723-42FD-BD73-CF1BE872A260}|Tuple\\Tuple.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\18.exercisegenerics\\tuple\\tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B251F3-F723-42FD-BD73-CF1BE872A260}|Tuple\\Tuple.csproj|solutionrelative:tuple\\tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4DCCF2-8B08-4EE4-A9B0-9B70667CC0A8}|GenericCountMethodStrings\\GenericCountMethodStrings.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\18.exercisegenerics\\genericcountmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4DCCF2-8B08-4EE4-A9B0-9B70667CC0A8}|GenericCountMethodStrings\\GenericCountMethodStrings.csproj|solutionrelative:genericcountmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4DCCF2-8B08-4EE4-A9B0-9B70667CC0A8}|GenericCountMethodStrings\\GenericCountMethodStrings.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\18.exercisegenerics\\genericcountmethodstrings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4DCCF2-8B08-4EE4-A9B0-9B70667CC0A8}|GenericCountMethodStrings\\GenericCountMethodStrings.csproj|solutionrelative:genericcountmethodstrings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A571B9-B1B2-4543-AA77-6AB0C95C4CDB}|3.GenericSwapMethodStrings\\3.GenericSwapMethodStrings.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\18.exercisegenerics\\3.genericswapmethodstrings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A571B9-B1B2-4543-AA77-6AB0C95C4CDB}|3.GenericSwapMethodStrings\\3.GenericSwapMethodStrings.csproj|solutionrelative:3.genericswapmethodstrings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A571B9-B1B2-4543-AA77-6AB0C95C4CDB}|3.GenericSwapMethodStrings\\3.GenericSwapMethodStrings.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\18.exercisegenerics\\3.genericswapmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A571B9-B1B2-4543-AA77-6AB0C95C4CDB}|3.GenericSwapMethodStrings\\3.GenericSwapMethodStrings.csproj|solutionrelative:3.genericswapmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F7DF9-6270-4682-8BBF-33F137FE4FA7}|2.GenericBoxOfInteger\\2.GenericBoxOfInteger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\18.exercisegenerics\\2.genericboxofinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F7DF9-6270-4682-8BBF-33F137FE4FA7}|2.GenericBoxOfInteger\\2.GenericBoxOfInteger.csproj|solutionrelative:2.genericboxofinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F7DF9-6270-4682-8BBF-33F137FE4FA7}|2.GenericBoxOfInteger\\2.GenericBoxOfInteger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\18.exercisegenerics\\2.genericboxofinteger\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F7DF9-6270-4682-8BBF-33F137FE4FA7}|2.GenericBoxOfInteger\\2.GenericBoxOfInteger.csproj|solutionrelative:2.genericboxofinteger\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAA7054-C7A3-423D-AACE-0D7381CA2A14}|1.GenericBoxOfString\\1.GenericBoxOfString.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\18.exercisegenerics\\1.genericboxofstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAA7054-C7A3-423D-AACE-0D7381CA2A14}|1.GenericBoxOfString\\1.GenericBoxOfString.csproj|solutionrelative:1.genericboxofstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAA7054-C7A3-423D-AACE-0D7381CA2A14}|1.GenericBoxOfString\\1.GenericBoxOfString.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\18.exercisegenerics\\1.genericboxofstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAA7054-C7A3-423D-AACE-0D7381CA2A14}|1.GenericBoxOfString\\1.GenericBoxOfString.csproj|solutionrelative:1.genericboxofstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tuple.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\Tuple\\Tuple.cs",
+              "RelativeDocumentMoniker": "Tuple\\Tuple.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\Tuple\\Tuple.cs",
+              "RelativeToolTip": "Tuple\\Tuple.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:31:04.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\Tuple\\Program.cs",
+              "RelativeDocumentMoniker": "Tuple\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\Tuple\\Program.cs",
+              "RelativeToolTip": "Tuple\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:25:32.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\GenericCountMethodStrings\\Box.cs",
+              "RelativeDocumentMoniker": "GenericCountMethodStrings\\Box.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\GenericCountMethodStrings\\Box.cs",
+              "RelativeToolTip": "GenericCountMethodStrings\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:12:28.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\GenericCountMethodStrings\\Program.cs",
+              "RelativeDocumentMoniker": "GenericCountMethodStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\GenericCountMethodStrings\\Program.cs",
+              "RelativeToolTip": "GenericCountMethodStrings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:12:01.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\3.GenericSwapMethodStrings\\Box.cs",
+              "RelativeDocumentMoniker": "3.GenericSwapMethodStrings\\Box.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\3.GenericSwapMethodStrings\\Box.cs",
+              "RelativeToolTip": "3.GenericSwapMethodStrings\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:43:34.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\3.GenericSwapMethodStrings\\Program.cs",
+              "RelativeDocumentMoniker": "3.GenericSwapMethodStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\3.GenericSwapMethodStrings\\Program.cs",
+              "RelativeToolTip": "3.GenericSwapMethodStrings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:36:21.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\2.GenericBoxOfInteger\\Box.cs",
+              "RelativeDocumentMoniker": "2.GenericBoxOfInteger\\Box.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\2.GenericBoxOfInteger\\Box.cs",
+              "RelativeToolTip": "2.GenericBoxOfInteger\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:23:55.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\2.GenericBoxOfInteger\\Program.cs",
+              "RelativeDocumentMoniker": "2.GenericBoxOfInteger\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\2.GenericBoxOfInteger\\Program.cs",
+              "RelativeToolTip": "2.GenericBoxOfInteger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:22:27.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\1.GenericBoxOfString\\Box.cs",
+              "RelativeDocumentMoniker": "1.GenericBoxOfString\\Box.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\1.GenericBoxOfString\\Box.cs",
+              "RelativeToolTip": "1.GenericBoxOfString\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:07:51.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\1.GenericBoxOfString\\Program.cs",
+              "RelativeDocumentMoniker": "1.GenericBoxOfString\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\18.ExerciseGenerics\\1.GenericBoxOfString\\Program.cs",
+              "RelativeToolTip": "1.GenericBoxOfString\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:06:54.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

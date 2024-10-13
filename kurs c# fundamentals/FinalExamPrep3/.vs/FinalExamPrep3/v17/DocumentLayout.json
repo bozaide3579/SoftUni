@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A989ECB3-EBD2-46E0-90BB-797E82A5CF68}|03.PlantDiscovery\\03.PlantDiscovery.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep3\\03.plantdiscovery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A989ECB3-EBD2-46E0-90BB-797E82A5CF68}|03.PlantDiscovery\\03.PlantDiscovery.csproj|solutionrelative:03.plantdiscovery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3D7370-37AB-46A8-A7ED-39CECAEFC78B}|03.P!rates\\03.P!rates.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep3\\03.p!rates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3D7370-37AB-46A8-A7ED-39CECAEFC78B}|03.P!rates\\03.P!rates.csproj|solutionrelative:03.p!rates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD2EDA8-5723-43CA-B25A-C50CCF88ED80}|03.HeroesOfCodeAndLogicVII\\03.HeroesOfCodeAndLogicVII.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep3\\03.heroesofcodeandlogicvii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD2EDA8-5723-43CA-B25A-C50CCF88ED80}|03.HeroesOfCodeAndLogicVII\\03.HeroesOfCodeAndLogicVII.csproj|solutionrelative:03.heroesofcodeandlogicvii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1A9724-EAE3-4385-ACB5-03B1B0014BB1}|03.BakeryShop\\03.BakeryShop.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep3\\03.bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1A9724-EAE3-4385-ACB5-03B1B0014BB1}|03.BakeryShop\\03.BakeryShop.csproj|solutionrelative:03.bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE70523B-65A8-4311-9EB6-4D5363869C60}|01.ActivationKeys\\01.ActivationKeys.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep3\\01.activationkeys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE70523B-65A8-4311-9EB6-4D5363869C60}|01.ActivationKeys\\01.ActivationKeys.csproj|solutionrelative:01.activationkeys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A34F05-6BA1-44D0-94A1-7A2FDF9AC2E1}|01.PasswordReset\\01.PasswordReset.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep3\\01.passwordreset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A34F05-6BA1-44D0-94A1-7A2FDF9AC2E1}|01.PasswordReset\\01.PasswordReset.csproj|solutionrelative:01.passwordreset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFCA5BC-46AB-44C7-888F-F20C23044AFE}|01.SecretChat\\01.SecretChat.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep3\\01.secretchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFCA5BC-46AB-44C7-888F-F20C23044AFE}|01.SecretChat\\01.SecretChat.csproj|solutionrelative:01.secretchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42CEFDDE-2CDC-4A43-A089-06AA5BF77DEA}|01.Registration\\01.Registration.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep3\\01.registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42CEFDDE-2CDC-4A43-A089-06AA5BF77DEA}|01.Registration\\01.Registration.csproj|solutionrelative:01.registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289F42B6-14C4-44C8-B437-66B8B73AC150}|02.FancyBarcodes\\02.FancyBarcodes.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep3\\02.fancybarcodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289F42B6-14C4-44C8-B437-66B8B73AC150}|02.FancyBarcodes\\02.FancyBarcodes.csproj|solutionrelative:02.fancybarcodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB479C-8C11-405A-AD68-4946E865774F}|02.EmojiDetector\\02.EmojiDetector.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep3\\02.emojidetector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB479C-8C11-405A-AD68-4946E865774F}|02.EmojiDetector\\02.EmojiDetector.csproj|solutionrelative:02.emojidetector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AB2E2D-8231-4E66-A069-B536D8663880}|02.AdAstra\\02.AdAstra.csproj|c:\\users\\bozaide\\onedrive\\desktop\\kurs fund c#\\finalexamprep3\\02.adastra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AB2E2D-8231-4E66-A069-B536D8663880}|02.AdAstra\\02.AdAstra.csproj|solutionrelative:02.adastra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\01.PasswordReset\\Program.cs",
+              "RelativeDocumentMoniker": "01.PasswordReset\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\01.PasswordReset\\Program.cs",
+              "RelativeToolTip": "01.PasswordReset\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:32:45.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\01.ActivationKeys\\Program.cs",
+              "RelativeDocumentMoniker": "01.ActivationKeys\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\01.ActivationKeys\\Program.cs",
+              "RelativeToolTip": "01.ActivationKeys\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:06:41.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\03.BakeryShop\\Program.cs",
+              "RelativeDocumentMoniker": "03.BakeryShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\03.BakeryShop\\Program.cs",
+              "RelativeToolTip": "03.BakeryShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:20:44.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\03.P!rates\\Program.cs",
+              "RelativeDocumentMoniker": "03.P!rates\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\03.P!rates\\Program.cs",
+              "RelativeToolTip": "03.P!rates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:39:24.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\03.PlantDiscovery\\Program.cs",
+              "RelativeDocumentMoniker": "03.PlantDiscovery\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\03.PlantDiscovery\\Program.cs",
+              "RelativeToolTip": "03.PlantDiscovery\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:57:16.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\03.HeroesOfCodeAndLogicVII\\Program.cs",
+              "RelativeDocumentMoniker": "03.HeroesOfCodeAndLogicVII\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\03.HeroesOfCodeAndLogicVII\\Program.cs",
+              "RelativeToolTip": "03.HeroesOfCodeAndLogicVII\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:05:50.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\01.SecretChat\\Program.cs",
+              "RelativeDocumentMoniker": "01.SecretChat\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\01.SecretChat\\Program.cs",
+              "RelativeToolTip": "01.SecretChat\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:59:39.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\01.Registration\\Program.cs",
+              "RelativeDocumentMoniker": "01.Registration\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\01.Registration\\Program.cs",
+              "RelativeToolTip": "01.Registration\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowC0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:25:40.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\02.EmojiDetector\\Program.cs",
+              "RelativeDocumentMoniker": "02.EmojiDetector\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\02.EmojiDetector\\Program.cs",
+              "RelativeToolTip": "02.EmojiDetector\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:47:51.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\02.FancyBarcodes\\Program.cs",
+              "RelativeDocumentMoniker": "02.FancyBarcodes\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\02.FancyBarcodes\\Program.cs",
+              "RelativeToolTip": "02.FancyBarcodes\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA8wBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T15:20:06.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\02.AdAstra\\Program.cs",
+              "RelativeDocumentMoniker": "02.AdAstra\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\kurs fund c#\\FinalExamPrep3\\02.AdAstra\\Program.cs",
+              "RelativeToolTip": "02.AdAstra\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:23:28.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\bin\Debug\net6.0\3.GenericSwapMethodStrings.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\bin\Debug\net6.0\3.GenericSwapMethodStrings.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\bin\Debug\net6.0\3.GenericSwapMethodStrings.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\bin\Debug\net6.0\3.GenericSwapMethodStrings.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\bin\Debug\net6.0\3.GenericSwapMethodStrings.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\obj\Debug\net6.0\3.GenericSwapMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\obj\Debug\net6.0\3.GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\obj\Debug\net6.0\3.GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\obj\Debug\net6.0\3.GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\obj\Debug\net6.0\3.GenericSwapMethodStrings.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\obj\Debug\net6.0\refint\3.GenericSwapMethodStrings.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\obj\Debug\net6.0\3.GenericSwapMethodStrings.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\obj\Debug\net6.0\3.GenericSwapMethodStrings.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\18.ExerciseGenerics\3.GenericSwapMethodStrings\obj\Debug\net6.0\ref\3.GenericSwapMethodStrings.dll

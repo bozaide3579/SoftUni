@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\bin\Debug\net6.0\5.ComparingObjects.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\bin\Debug\net6.0\5.ComparingObjects.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\bin\Debug\net6.0\5.ComparingObjects.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\bin\Debug\net6.0\5.ComparingObjects.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\bin\Debug\net6.0\5.ComparingObjects.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\obj\Debug\net6.0\5.ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\obj\Debug\net6.0\5.ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\obj\Debug\net6.0\5.ComparingObjects.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\obj\Debug\net6.0\5.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\obj\Debug\net6.0\5.ComparingObjects.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\obj\Debug\net6.0\refint\5.ComparingObjects.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\obj\Debug\net6.0\5.ComparingObjects.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\obj\Debug\net6.0\5.ComparingObjects.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\20.ExersiseIteratorsAndComparators\5.ComparingObjects\obj\Debug\net6.0\ref\5.ComparingObjects.dll

@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\bin\Debug\net6.0\3.Calculations.exe
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\bin\Debug\net6.0\3.Calculations.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\bin\Debug\net6.0\3.Calculations.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\bin\Debug\net6.0\3.Calculations.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\bin\Debug\net6.0\3.Calculations.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\obj\Debug\net6.0\refint\3.Calculations.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\3.Calculations\obj\Debug\net6.0\ref\3.Calculations.dll

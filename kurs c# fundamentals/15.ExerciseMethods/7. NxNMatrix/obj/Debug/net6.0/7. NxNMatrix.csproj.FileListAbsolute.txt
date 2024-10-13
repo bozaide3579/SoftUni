@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\bin\Debug\net6.0\7. NxNMatrix.exe
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\bin\Debug\net6.0\7. NxNMatrix.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\bin\Debug\net6.0\7. NxNMatrix.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\bin\Debug\net6.0\7. NxNMatrix.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\bin\Debug\net6.0\7. NxNMatrix.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\obj\Debug\net6.0\7. NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\obj\Debug\net6.0\7. NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\obj\Debug\net6.0\7. NxNMatrix.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\obj\Debug\net6.0\7. NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\obj\Debug\net6.0\7. NxNMatrix.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\obj\Debug\net6.0\refint\7. NxNMatrix.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\obj\Debug\net6.0\7. NxNMatrix.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\obj\Debug\net6.0\7. NxNMatrix.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\7. NxNMatrix\obj\Debug\net6.0\ref\7. NxNMatrix.dll

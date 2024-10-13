@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\bin\Debug\net6.0\03.rect.exe
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\bin\Debug\net6.0\03.rect.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\bin\Debug\net6.0\03.rect.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\bin\Debug\net6.0\03.rect.dll
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\bin\Debug\net6.0\03.rect.pdb
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\obj\Debug\net6.0\03.rect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\obj\Debug\net6.0\03.rect.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\obj\Debug\net6.0\03.rect.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\obj\Debug\net6.0\03.rect.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\obj\Debug\net6.0\03.rect.dll
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\obj\Debug\net6.0\refint\03.rect.dll
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\obj\Debug\net6.0\03.rect.pdb
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\obj\Debug\net6.0\03.rect.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\01.lab\03.rect\obj\Debug\net6.0\ref\03.rect.dll

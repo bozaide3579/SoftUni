@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4413B354-B79C-452C-BABD-37A9D301D4E6}|8.SoftUniParty\\8.SoftUniParty.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\7.setsanddictionariesadvanced\\8.softuniparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4413B354-B79C-452C-BABD-37A9D301D4E6}|8.SoftUniParty\\8.SoftUniParty.csproj|solutionrelative:8.softuniparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6E94EF-307E-4D61-896B-C88FBA1E186F}|7.ParkingLot\\7.ParkingLot.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\7.setsanddictionariesadvanced\\7.parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6E94EF-307E-4D61-896B-C88FBA1E186F}|7.ParkingLot\\7.ParkingLot.csproj|solutionrelative:7.parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024E0628-4ACC-4230-A52C-A0370DC1F6F6}|6.RecordUniqueNames\\6.RecordUniqueNames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\7.setsanddictionariesadvanced\\6.recorduniquenames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024E0628-4ACC-4230-A52C-A0370DC1F6F6}|6.RecordUniqueNames\\6.RecordUniqueNames.csproj|solutionrelative:6.recorduniquenames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B853248-C2F8-48D4-8370-53A0675463C2}|3.Largest3Numbers\\3.Largest3Numbers.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\7.setsanddictionariesadvanced\\3.largest3numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B853248-C2F8-48D4-8370-53A0675463C2}|3.Largest3Numbers\\3.Largest3Numbers.csproj|solutionrelative:3.largest3numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59182364-0E7B-4ECC-A7D3-68D450FD7429}|4.ProductShop\\4.ProductShop.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\7.setsanddictionariesadvanced\\4.productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59182364-0E7B-4ECC-A7D3-68D450FD7429}|4.ProductShop\\4.ProductShop.csproj|solutionrelative:4.productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2212CB5D-0455-4960-A078-A64410DD73BE}|5.CitiesByContinentAndCountry\\5.CitiesByContinentAndCountry.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\7.setsanddictionariesadvanced\\5.citiesbycontinentandcountry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2212CB5D-0455-4960-A078-A64410DD73BE}|5.CitiesByContinentAndCountry\\5.CitiesByContinentAndCountry.csproj|solutionrelative:5.citiesbycontinentandcountry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F72D1B2-B6E7-4CD8-93C2-41274DEAE899}|2.AverageStudentGrades\\2.AverageStudentGrades.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\7.setsanddictionariesadvanced\\2.averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F72D1B2-B6E7-4CD8-93C2-41274DEAE899}|2.AverageStudentGrades\\2.AverageStudentGrades.csproj|solutionrelative:2.averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472DCDCE-1688-4493-90B4-D0D2A73B2E96}|1.CountSameValuesInArray\\1.CountSameValuesInArray.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\7.setsanddictionariesadvanced\\1.countsamevaluesinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472DCDCE-1688-4493-90B4-D0D2A73B2E96}|1.CountSameValuesInArray\\1.CountSameValuesInArray.csproj|solutionrelative:1.countsamevaluesinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\8.SoftUniParty\\Program.cs",
+              "RelativeDocumentMoniker": "8.SoftUniParty\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\8.SoftUniParty\\Program.cs",
+              "RelativeToolTip": "8.SoftUniParty\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:53:05.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\7.ParkingLot\\Program.cs",
+              "RelativeDocumentMoniker": "7.ParkingLot\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\7.ParkingLot\\Program.cs",
+              "RelativeToolTip": "7.ParkingLot\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:52:36.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\6.RecordUniqueNames\\Program.cs",
+              "RelativeDocumentMoniker": "6.RecordUniqueNames\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\6.RecordUniqueNames\\Program.cs",
+              "RelativeToolTip": "6.RecordUniqueNames\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:52:11.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\5.CitiesByContinentAndCountry\\Program.cs",
+              "RelativeDocumentMoniker": "5.CitiesByContinentAndCountry\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\5.CitiesByContinentAndCountry\\Program.cs",
+              "RelativeToolTip": "5.CitiesByContinentAndCountry\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:51:38.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\4.ProductShop\\Program.cs",
+              "RelativeDocumentMoniker": "4.ProductShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\4.ProductShop\\Program.cs",
+              "RelativeToolTip": "4.ProductShop\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:50:43.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\3.Largest3Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "3.Largest3Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\3.Largest3Numbers\\Program.cs",
+              "RelativeToolTip": "3.Largest3Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:50:16.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\2.AverageStudentGrades\\Program.cs",
+              "RelativeDocumentMoniker": "2.AverageStudentGrades\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\2.AverageStudentGrades\\Program.cs",
+              "RelativeToolTip": "2.AverageStudentGrades\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:49:49.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\1.CountSameValuesInArray\\Program.cs",
+              "RelativeDocumentMoniker": "1.CountSameValuesInArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\7.SetsAndDictionariesAdvanced\\1.CountSameValuesInArray\\Program.cs",
+              "RelativeToolTip": "1.CountSameValuesInArray\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:49:17.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

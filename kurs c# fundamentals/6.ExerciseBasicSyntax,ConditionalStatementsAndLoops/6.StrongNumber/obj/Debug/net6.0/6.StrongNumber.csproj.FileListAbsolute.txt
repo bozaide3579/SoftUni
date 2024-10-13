@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.exe
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\obj\Debug\net6.0\refint\6.StrongNumber.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\6.ExerciseBasicSyntax,ConditionalStatementsAndLoops\6.StrongNumber\obj\Debug\net6.0\ref\6.StrongNumber.dll
