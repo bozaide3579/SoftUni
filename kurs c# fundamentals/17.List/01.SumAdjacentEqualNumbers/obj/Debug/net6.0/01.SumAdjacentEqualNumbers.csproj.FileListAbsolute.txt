@@ -1,4 +1,0 @@
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\17.List\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\17.List\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\17.List\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\17.List\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache

@@ -1,4 +1,0 @@
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\MidExam\02.SpaceTravel\obj\Debug\net6.0\02.SpaceTravel.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\MidExam\02.SpaceTravel\obj\Debug\net6.0\02.SpaceTravel.AssemblyInfoInputs.cache
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\MidExam\02.SpaceTravel\obj\Debug\net6.0\02.SpaceTravel.AssemblyInfo.cs
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\MidExam\02.SpaceTravel\obj\Debug\net6.0\02.SpaceTravel.csproj.CoreCompileInputs.cache

@@ -1,4 +1,0 @@
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\12.ExerciseArrays\10.LadyBugs\obj\Debug\net6.0\10.LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\12.ExerciseArrays\10.LadyBugs\obj\Debug\net6.0\10.LadyBugs.AssemblyInfoInputs.cache
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\12.ExerciseArrays\10.LadyBugs\obj\Debug\net6.0\10.LadyBugs.AssemblyInfo.cs
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\12.ExerciseArrays\10.LadyBugs\obj\Debug\net6.0\10.LadyBugs.csproj.CoreCompileInputs.cache

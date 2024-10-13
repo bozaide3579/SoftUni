@@ -1,4 +1,0 @@
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\9.GreaterOfTwoValues\obj\Debug\net6.0\9.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\9.GreaterOfTwoValues\obj\Debug\net6.0\9.GreaterOfTwoValues.AssemblyInfoInputs.cache
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\9.GreaterOfTwoValues\obj\Debug\net6.0\9.GreaterOfTwoValues.AssemblyInfo.cs
-C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\14.Methods\9.GreaterOfTwoValues\obj\Debug\net6.0\9.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
