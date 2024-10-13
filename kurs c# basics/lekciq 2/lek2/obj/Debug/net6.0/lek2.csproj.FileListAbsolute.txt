@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\bin\Debug\net6.0\lek2.exe
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\bin\Debug\net6.0\lek2.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\bin\Debug\net6.0\lek2.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\bin\Debug\net6.0\lek2.dll
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\bin\Debug\net6.0\lek2.pdb
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\obj\Debug\net6.0\lek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\obj\Debug\net6.0\lek2.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\obj\Debug\net6.0\lek2.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\obj\Debug\net6.0\lek2.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\obj\Debug\net6.0\lek2.dll
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\obj\Debug\net6.0\refint\lek2.dll
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\obj\Debug\net6.0\lek2.pdb
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\obj\Debug\net6.0\lek2.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\lek2\lek2\obj\Debug\net6.0\ref\lek2.dll

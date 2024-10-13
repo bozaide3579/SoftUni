@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70451D95-4D5B-4A87-B01E-0A69430A168E}|09\\09.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# basics\\lekciq 1\\09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70451D95-4D5B-4A87-B01E-0A69430A168E}|09\\09.csproj|solutionrelative:09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10577AC3-B46D-40D1-A960-1C8F1926ABD7}|hellosoftuni\\hellosoftuni.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# basics\\lekciq 1\\hellosoftuni\\hellosoftuni.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10577AC3-B46D-40D1-A960-1C8F1926ABD7}|hellosoftuni\\hellosoftuni.csproj|solutionrelative:hellosoftuni\\hellosoftuni.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4668B83-AF34-48E5-AA13-16F96CA09A5D}|06\\06.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# basics\\lekciq 1\\06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4668B83-AF34-48E5-AA13-16F96CA09A5D}|06\\06.csproj|solutionrelative:06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ADC678-33D5-40EE-8CB6-FBD91B95B6B0}|02.nums\\02.nums.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# basics\\lekciq 1\\02.nums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ADC678-33D5-40EE-8CB6-FBD91B95B6B0}|02.nums\\02.nums.csproj|solutionrelative:02.nums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFBAB58-34A2-4807-B8C4-0A0C94AFA6F4}|03.rect\\03.rect.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# basics\\lekciq 1\\03.rect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFBAB58-34A2-4807-B8C4-0A0C94AFA6F4}|03.rect\\03.rect.csproj|solutionrelative:03.rect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FB85A3-A5A9-4758-944F-66999210DB17}|04\\04.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# basics\\lekciq 1\\04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FB85A3-A5A9-4758-944F-66999210DB17}|04\\04.csproj|solutionrelative:04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04F470A-C101-4380-800C-D8E6BE6DB1DA}|05\\05.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# basics\\lekciq 1\\05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04F470A-C101-4380-800C-D8E6BE6DB1DA}|05\\05.csproj|solutionrelative:05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10577AC3-B46D-40D1-A960-1C8F1926ABD7}|hellosoftuni\\hellosoftuni.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# basics\\lekciq 1\\hellosoftuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10577AC3-B46D-40D1-A960-1C8F1926ABD7}|hellosoftuni\\hellosoftuni.csproj|solutionrelative:hellosoftuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\09\\Program.cs",
+              "RelativeDocumentMoniker": "09\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\09\\Program.cs",
+              "RelativeToolTip": "09\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:19:31.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\06\\Program.cs",
+              "RelativeDocumentMoniker": "06\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\06\\Program.cs",
+              "RelativeToolTip": "06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:19:31.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\04\\Program.cs",
+              "RelativeDocumentMoniker": "04\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\04\\Program.cs",
+              "RelativeToolTip": "04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:19:31.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\03.rect\\Program.cs",
+              "RelativeDocumentMoniker": "03.rect\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\03.rect\\Program.cs",
+              "RelativeToolTip": "03.rect\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:19:31.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\02.nums\\Program.cs",
+              "RelativeDocumentMoniker": "02.nums\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\02.nums\\Program.cs",
+              "RelativeToolTip": "02.nums\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:19:31.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hellosoftuni.csproj",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\hellosoftuni\\hellosoftuni.csproj",
+              "RelativeDocumentMoniker": "hellosoftuni\\hellosoftuni.csproj",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\hellosoftuni\\hellosoftuni.csproj",
+              "RelativeToolTip": "hellosoftuni\\hellosoftuni.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T12:19:31.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\05\\Program.cs",
+              "RelativeDocumentMoniker": "05\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\05\\Program.cs",
+              "RelativeToolTip": "05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:19:31.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\hellosoftuni\\Program.cs",
+              "RelativeDocumentMoniker": "hellosoftuni\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# basics\\lekciq 1\\hellosoftuni\\Program.cs",
+              "RelativeToolTip": "hellosoftuni\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:19:31.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

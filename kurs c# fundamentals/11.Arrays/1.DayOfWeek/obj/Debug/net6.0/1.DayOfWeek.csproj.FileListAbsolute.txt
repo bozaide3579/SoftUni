@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\bin\Debug\net6.0\1.DayOfWeek.exe
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\bin\Debug\net6.0\1.DayOfWeek.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\bin\Debug\net6.0\1.DayOfWeek.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\bin\Debug\net6.0\1.DayOfWeek.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\bin\Debug\net6.0\1.DayOfWeek.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\obj\Debug\net6.0\1.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\obj\Debug\net6.0\1.DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\obj\Debug\net6.0\1.DayOfWeek.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\obj\Debug\net6.0\1.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\obj\Debug\net6.0\1.DayOfWeek.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\obj\Debug\net6.0\refint\1.DayOfWeek.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\obj\Debug\net6.0\1.DayOfWeek.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\obj\Debug\net6.0\1.DayOfWeek.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\11.Arrays\1.DayOfWeek\obj\Debug\net6.0\ref\1.DayOfWeek.dll

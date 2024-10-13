@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FE6D6D-314F-4CD3-85F4-09443301EBD4}|10.Crossroads\\10.Crossroads.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\4.exercisestackandqueues\\10.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FE6D6D-314F-4CD3-85F4-09443301EBD4}|10.Crossroads\\10.Crossroads.csproj|solutionrelative:10.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F51DFF4-4831-4002-966C-09BD66D32D99}|8.BalancedParenthesis\\8.BalancedParenthesis.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\4.exercisestackandqueues\\8.balancedparenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F51DFF4-4831-4002-966C-09BD66D32D99}|8.BalancedParenthesis\\8.BalancedParenthesis.csproj|solutionrelative:8.balancedparenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D155EE4-73A6-41EA-B46F-5596290415A9}|7.TruckTour\\7.TruckTour.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\4.exercisestackandqueues\\7.trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D155EE4-73A6-41EA-B46F-5596290415A9}|7.TruckTour\\7.TruckTour.csproj|solutionrelative:7.trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32004FA2-1F02-4A23-8EBE-98C40F2BFE37}|5.FashionBoutique\\5.FashionBoutique.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\4.exercisestackandqueues\\5.fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32004FA2-1F02-4A23-8EBE-98C40F2BFE37}|5.FashionBoutique\\5.FashionBoutique.csproj|solutionrelative:5.fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF94FE57-823B-4A08-9827-88D01B58DAC8}|4.FastFood\\4.FastFood.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\4.exercisestackandqueues\\4.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF94FE57-823B-4A08-9827-88D01B58DAC8}|4.FastFood\\4.FastFood.csproj|solutionrelative:4.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2490BD9C-186A-4A9A-B7C9-1AA243992605}|3.MaximumAndMinimumElement\\3.MaximumAndMinimumElement.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\4.exercisestackandqueues\\3.maximumandminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2490BD9C-186A-4A9A-B7C9-1AA243992605}|3.MaximumAndMinimumElement\\3.MaximumAndMinimumElement.csproj|solutionrelative:3.maximumandminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E969633D-EDFB-44DC-ADCD-9810A1FDF6D3}|2.BasicQueueOperations\\2.BasicQueueOperations.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\4.exercisestackandqueues\\2.basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E969633D-EDFB-44DC-ADCD-9810A1FDF6D3}|2.BasicQueueOperations\\2.BasicQueueOperations.csproj|solutionrelative:2.basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653696DC-9919-4345-A93C-2CB7323D34B2}|1.BasicStackOperations\\1.BasicStackOperations.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\4.exercisestackandqueues\\1.basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653696DC-9919-4345-A93C-2CB7323D34B2}|1.BasicStackOperations\\1.BasicStackOperations.csproj|solutionrelative:1.basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\10.Crossroads\\Program.cs",
+              "RelativeDocumentMoniker": "10.Crossroads\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\10.Crossroads\\Program.cs",
+              "RelativeToolTip": "10.Crossroads\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:41:27.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\8.BalancedParenthesis\\Program.cs",
+              "RelativeDocumentMoniker": "8.BalancedParenthesis\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\8.BalancedParenthesis\\Program.cs",
+              "RelativeToolTip": "8.BalancedParenthesis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:40:33.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\7.TruckTour\\Program.cs",
+              "RelativeDocumentMoniker": "7.TruckTour\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\7.TruckTour\\Program.cs",
+              "RelativeToolTip": "7.TruckTour\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:39:20.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\5.FashionBoutique\\Program.cs",
+              "RelativeDocumentMoniker": "5.FashionBoutique\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\5.FashionBoutique\\Program.cs",
+              "RelativeToolTip": "5.FashionBoutique\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:38:53.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\4.FastFood\\Program.cs",
+              "RelativeDocumentMoniker": "4.FastFood\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\4.FastFood\\Program.cs",
+              "RelativeToolTip": "4.FastFood\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:58:17.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\3.MaximumAndMinimumElement\\Program.cs",
+              "RelativeDocumentMoniker": "3.MaximumAndMinimumElement\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\3.MaximumAndMinimumElement\\Program.cs",
+              "RelativeToolTip": "3.MaximumAndMinimumElement\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwDkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:27:39.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\2.BasicQueueOperations\\Program.cs",
+              "RelativeDocumentMoniker": "2.BasicQueueOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\2.BasicQueueOperations\\Program.cs",
+              "RelativeToolTip": "2.BasicQueueOperations\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:01:58.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\1.BasicStackOperations\\Program.cs",
+              "RelativeDocumentMoniker": "1.BasicStackOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\4.ExerciseStackAndQueues\\1.BasicStackOperations\\Program.cs",
+              "RelativeToolTip": "1.BasicStackOperations\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:38:54.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

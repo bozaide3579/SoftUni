@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3981C520-7B5F-4DD6-8408-040E2C342252}|10.SoftUniParking\\10.SoftUniParking.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\10.softuniparking\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3981C520-7B5F-4DD6-8408-040E2C342252}|10.SoftUniParking\\10.SoftUniParking.csproj|solutionrelative:10.softuniparking\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3981C520-7B5F-4DD6-8408-040E2C342252}|10.SoftUniParking\\10.SoftUniParking.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\10.softuniparking\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3981C520-7B5F-4DD6-8408-040E2C342252}|10.SoftUniParking\\10.SoftUniParking.csproj|solutionrelative:10.softuniparking\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3981C520-7B5F-4DD6-8408-040E2C342252}|10.SoftUniParking\\10.SoftUniParking.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\10.softuniparking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3981C520-7B5F-4DD6-8408-040E2C342252}|10.SoftUniParking\\10.SoftUniParking.csproj|solutionrelative:10.softuniparking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D901E00F-6E1E-4330-B18C-CD8C3ABE0476}|8.CarSalesman\\8.CarSalesman.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\8.carsalesman\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D901E00F-6E1E-4330-B18C-CD8C3ABE0476}|8.CarSalesman\\8.CarSalesman.csproj|solutionrelative:8.carsalesman\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D901E00F-6E1E-4330-B18C-CD8C3ABE0476}|8.CarSalesman\\8.CarSalesman.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\8.carsalesman\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D901E00F-6E1E-4330-B18C-CD8C3ABE0476}|8.CarSalesman\\8.CarSalesman.csproj|solutionrelative:8.carsalesman\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D901E00F-6E1E-4330-B18C-CD8C3ABE0476}|8.CarSalesman\\8.CarSalesman.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\8.carsalesman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D901E00F-6E1E-4330-B18C-CD8C3ABE0476}|8.CarSalesman\\8.CarSalesman.csproj|solutionrelative:8.carsalesman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B49C41-A3BE-4A2A-BED6-24FCA0367661}|5.DateModifier\\5.DateModifier.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\5.datemodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B49C41-A3BE-4A2A-BED6-24FCA0367661}|5.DateModifier\\5.DateModifier.csproj|solutionrelative:5.datemodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B49C41-A3BE-4A2A-BED6-24FCA0367661}|5.DateModifier\\5.DateModifier.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\5.datemodifier\\datemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B49C41-A3BE-4A2A-BED6-24FCA0367661}|5.DateModifier\\5.DateModifier.csproj|solutionrelative:5.datemodifier\\datemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E753D613-C1BC-4C79-A1DC-A7DED9BC2A61}|4.OpinionPoll\\4.OpinionPoll.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\4.opinionpoll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E753D613-C1BC-4C79-A1DC-A7DED9BC2A61}|4.OpinionPoll\\4.OpinionPoll.csproj|solutionrelative:4.opinionpoll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E753D613-C1BC-4C79-A1DC-A7DED9BC2A61}|4.OpinionPoll\\4.OpinionPoll.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\4.opinionpoll\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E753D613-C1BC-4C79-A1DC-A7DED9BC2A61}|4.OpinionPoll\\4.OpinionPoll.csproj|solutionrelative:4.opinionpoll\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179CD3AD-9675-493C-90C6-931CCD00B5E6}|3.OldestFamilyMember\\3.OldestFamilyMember.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\3.oldestfamilymember\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179CD3AD-9675-493C-90C6-931CCD00B5E6}|3.OldestFamilyMember\\3.OldestFamilyMember.csproj|solutionrelative:3.oldestfamilymember\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179CD3AD-9675-493C-90C6-931CCD00B5E6}|3.OldestFamilyMember\\3.OldestFamilyMember.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\3.oldestfamilymember\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179CD3AD-9675-493C-90C6-931CCD00B5E6}|3.OldestFamilyMember\\3.OldestFamilyMember.csproj|solutionrelative:3.oldestfamilymember\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179CD3AD-9675-493C-90C6-931CCD00B5E6}|3.OldestFamilyMember\\3.OldestFamilyMember.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\3.oldestfamilymember\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179CD3AD-9675-493C-90C6-931CCD00B5E6}|3.OldestFamilyMember\\3.OldestFamilyMember.csproj|solutionrelative:3.oldestfamilymember\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA12125-D01A-49A5-98DB-2BCDEC369797}|1.DefineAClassPerson\\1.DefineAClassPerson.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\1.defineaclassperson\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA12125-D01A-49A5-98DB-2BCDEC369797}|1.DefineAClassPerson\\1.DefineAClassPerson.csproj|solutionrelative:1.defineaclassperson\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA12125-D01A-49A5-98DB-2BCDEC369797}|1.DefineAClassPerson\\1.DefineAClassPerson.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\kurs c# advanced\\14.exercisedefiningclasses\\1.defineaclassperson\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA12125-D01A-49A5-98DB-2BCDEC369797}|1.DefineAClassPerson\\1.DefineAClassPerson.csproj|solutionrelative:1.defineaclassperson\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parking.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\10.SoftUniParking\\Parking.cs",
+              "RelativeDocumentMoniker": "10.SoftUniParking\\Parking.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\10.SoftUniParking\\Parking.cs",
+              "RelativeToolTip": "10.SoftUniParking\\Parking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:21:44.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\10.SoftUniParking\\Car.cs",
+              "RelativeDocumentMoniker": "10.SoftUniParking\\Car.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\10.SoftUniParking\\Car.cs",
+              "RelativeToolTip": "10.SoftUniParking\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:09:45.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\10.SoftUniParking\\StartUp.cs",
+              "RelativeDocumentMoniker": "10.SoftUniParking\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\10.SoftUniParking\\StartUp.cs",
+              "RelativeToolTip": "10.SoftUniParking\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:05:10.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\8.CarSalesman\\Car.cs",
+              "RelativeDocumentMoniker": "8.CarSalesman\\Car.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\8.CarSalesman\\Car.cs",
+              "RelativeToolTip": "8.CarSalesman\\Car.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:20:08.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\8.CarSalesman\\Engine.cs",
+              "RelativeDocumentMoniker": "8.CarSalesman\\Engine.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\8.CarSalesman\\Engine.cs",
+              "RelativeToolTip": "8.CarSalesman\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:17:03.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\8.CarSalesman\\Program.cs",
+              "RelativeDocumentMoniker": "8.CarSalesman\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\8.CarSalesman\\Program.cs",
+              "RelativeToolTip": "8.CarSalesman\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:11:05.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DateModifier.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\5.DateModifier\\DateModifier.cs",
+              "RelativeDocumentMoniker": "5.DateModifier\\DateModifier.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\5.DateModifier\\DateModifier.cs",
+              "RelativeToolTip": "5.DateModifier\\DateModifier.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:09:46.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\5.DateModifier\\Program.cs",
+              "RelativeDocumentMoniker": "5.DateModifier\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\5.DateModifier\\Program.cs",
+              "RelativeToolTip": "5.DateModifier\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:09:19.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\4.OpinionPoll\\Person.cs",
+              "RelativeDocumentMoniker": "4.OpinionPoll\\Person.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\4.OpinionPoll\\Person.cs",
+              "RelativeToolTip": "4.OpinionPoll\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:59:47.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\4.OpinionPoll\\Program.cs",
+              "RelativeDocumentMoniker": "4.OpinionPoll\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\4.OpinionPoll\\Program.cs",
+              "RelativeToolTip": "4.OpinionPoll\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:59:29.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Family.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\3.OldestFamilyMember\\Family.cs",
+              "RelativeDocumentMoniker": "3.OldestFamilyMember\\Family.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\3.OldestFamilyMember\\Family.cs",
+              "RelativeToolTip": "3.OldestFamilyMember\\Family.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:45:50.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\3.OldestFamilyMember\\Person.cs",
+              "RelativeDocumentMoniker": "3.OldestFamilyMember\\Person.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\3.OldestFamilyMember\\Person.cs",
+              "RelativeToolTip": "3.OldestFamilyMember\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:43:01.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\3.OldestFamilyMember\\Program.cs",
+              "RelativeDocumentMoniker": "3.OldestFamilyMember\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\3.OldestFamilyMember\\Program.cs",
+              "RelativeToolTip": "3.OldestFamilyMember\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:42:36.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\1.DefineAClassPerson\\Person.cs",
+              "RelativeDocumentMoniker": "1.DefineAClassPerson\\Person.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\1.DefineAClassPerson\\Person.cs",
+              "RelativeToolTip": "1.DefineAClassPerson\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:04:28.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\1.DefineAClassPerson\\StartUp.cs",
+              "RelativeDocumentMoniker": "1.DefineAClassPerson\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\kurs c# advanced\\14.ExerciseDefiningClasses\\1.DefineAClassPerson\\StartUp.cs",
+              "RelativeToolTip": "1.DefineAClassPerson\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:58:42.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\bin\Debug\net6.0\4.DirectoryTraversal.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\bin\Debug\net6.0\4.DirectoryTraversal.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\bin\Debug\net6.0\4.DirectoryTraversal.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\bin\Debug\net6.0\4.DirectoryTraversal.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\bin\Debug\net6.0\4.DirectoryTraversal.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\obj\Debug\net6.0\4.DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\obj\Debug\net6.0\4.DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\obj\Debug\net6.0\4.DirectoryTraversal.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\obj\Debug\net6.0\4.DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\obj\Debug\net6.0\4.DirectoryTraversal.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\obj\Debug\net6.0\refint\4.DirectoryTraversal.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\obj\Debug\net6.0\4.DirectoryTraversal.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\obj\Debug\net6.0\4.DirectoryTraversal.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\10.ExerciseStreams,FilesAndDirectories\4.DirectoryTraversal\obj\Debug\net6.0\ref\4.DirectoryTraversal.dll

@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\bin\Debug\net6.0\4.PrintingTriangle.exe
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\bin\Debug\net6.0\4.PrintingTriangle.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\bin\Debug\net6.0\4.PrintingTriangle.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\bin\Debug\net6.0\4.PrintingTriangle.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\bin\Debug\net6.0\4.PrintingTriangle.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\obj\Debug\net6.0\4.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\obj\Debug\net6.0\4.PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\obj\Debug\net6.0\4.PrintingTriangle.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\obj\Debug\net6.0\4.PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\obj\Debug\net6.0\4.PrintingTriangle.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\obj\Debug\net6.0\refint\4.PrintingTriangle.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\obj\Debug\net6.0\4.PrintingTriangle.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\obj\Debug\net6.0\4.PrintingTriangle.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\1.SignOfIntegerNumbers\4.PrintingTriangle\obj\Debug\net6.0\ref\4.PrintingTriangle.dll

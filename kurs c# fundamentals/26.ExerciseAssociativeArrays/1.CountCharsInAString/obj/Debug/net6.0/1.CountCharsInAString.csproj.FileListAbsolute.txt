@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\bin\Debug\net6.0\1.CountCharsInAString.exe
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\bin\Debug\net6.0\1.CountCharsInAString.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\bin\Debug\net6.0\1.CountCharsInAString.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\bin\Debug\net6.0\1.CountCharsInAString.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\bin\Debug\net6.0\1.CountCharsInAString.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\refint\1.CountCharsInAString.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\26.ExerciseAssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\ref\1.CountCharsInAString.dll

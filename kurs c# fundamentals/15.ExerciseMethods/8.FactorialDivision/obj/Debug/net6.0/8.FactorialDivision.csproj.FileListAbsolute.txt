@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\bin\Debug\net6.0\8.FactorialDivision.exe
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\bin\Debug\net6.0\8.FactorialDivision.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\bin\Debug\net6.0\8.FactorialDivision.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\bin\Debug\net6.0\8.FactorialDivision.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\bin\Debug\net6.0\8.FactorialDivision.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\obj\Debug\net6.0\refint\8.FactorialDivision.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\15.ExerciseMethods\8.FactorialDivision\obj\Debug\net6.0\ref\8.FactorialDivision.dll

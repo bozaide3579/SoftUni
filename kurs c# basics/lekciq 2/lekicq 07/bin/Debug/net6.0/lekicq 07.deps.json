@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lekicq 07/1.0.0": {
+        "runtime": {
+          "lekicq 07.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lekicq 07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

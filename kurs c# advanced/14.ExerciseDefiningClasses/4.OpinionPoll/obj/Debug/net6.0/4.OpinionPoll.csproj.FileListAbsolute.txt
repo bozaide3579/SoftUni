@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\bin\Debug\net6.0\4.OpinionPoll.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\bin\Debug\net6.0\4.OpinionPoll.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\bin\Debug\net6.0\4.OpinionPoll.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\bin\Debug\net6.0\4.OpinionPoll.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\bin\Debug\net6.0\4.OpinionPoll.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\obj\Debug\net6.0\refint\4.OpinionPoll.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\kurs c# advanced\14.ExerciseDefiningClasses\4.OpinionPoll\obj\Debug\net6.0\ref\4.OpinionPoll.dll

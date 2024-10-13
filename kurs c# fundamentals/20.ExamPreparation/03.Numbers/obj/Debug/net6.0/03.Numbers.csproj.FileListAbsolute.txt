@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\bin\Debug\net6.0\03.Numbers.exe
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\bin\Debug\net6.0\03.Numbers.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\bin\Debug\net6.0\03.Numbers.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\bin\Debug\net6.0\03.Numbers.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\bin\Debug\net6.0\03.Numbers.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\obj\Debug\net6.0\refint\03.Numbers.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\20.ExamPreparation\03.Numbers\obj\Debug\net6.0\ref\03.Numbers.dll

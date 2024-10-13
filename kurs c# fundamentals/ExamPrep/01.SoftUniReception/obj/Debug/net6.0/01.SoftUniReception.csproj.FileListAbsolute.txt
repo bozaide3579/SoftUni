@@ -1,0 +1,14 @@
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\bin\Debug\net6.0\01.SoftUniReception.exe
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\bin\Debug\net6.0\01.SoftUniReception.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\bin\Debug\net6.0\01.SoftUniReception.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\bin\Debug\net6.0\01.SoftUniReception.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\bin\Debug\net6.0\01.SoftUniReception.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\obj\Debug\net6.0\refint\01.SoftUniReception.dll
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.pdb
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\kurs fund c#\ExamPrep\01.SoftUniReception\obj\Debug\net6.0\ref\01.SoftUniReception.dll
