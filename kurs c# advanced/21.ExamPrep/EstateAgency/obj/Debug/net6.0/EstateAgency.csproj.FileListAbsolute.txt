@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\bin\Debug\net6.0\EstateAgency.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\bin\Debug\net6.0\EstateAgency.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\bin\Debug\net6.0\EstateAgency.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\bin\Debug\net6.0\EstateAgency.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\bin\Debug\net6.0\EstateAgency.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\obj\Debug\net6.0\EstateAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\obj\Debug\net6.0\EstateAgency.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\obj\Debug\net6.0\EstateAgency.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\obj\Debug\net6.0\EstateAgency.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\obj\Debug\net6.0\refint\EstateAgency.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\obj\Debug\net6.0\EstateAgency.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\obj\Debug\net6.0\EstateAgency.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\EstateAgency\obj\Debug\net6.0\ref\EstateAgency.dll

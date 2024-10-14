@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\bin\Debug\net6.0\1.RapidCourier.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\bin\Debug\net6.0\1.RapidCourier.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\bin\Debug\net6.0\1.RapidCourier.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\bin\Debug\net6.0\1.RapidCourier.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\bin\Debug\net6.0\1.RapidCourier.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\obj\Debug\net6.0\1.RapidCourier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\obj\Debug\net6.0\1.RapidCourier.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\obj\Debug\net6.0\1.RapidCourier.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\obj\Debug\net6.0\1.RapidCourier.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\obj\Debug\net6.0\1.RapidCourier.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\obj\Debug\net6.0\1.RapidCourier.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\obj\Debug\net6.0\refint\1.RapidCourier.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\obj\Debug\net6.0\1.RapidCourier.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\obj\Debug\net6.0\1.RapidCourier.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\21.ExamPrep\1.RapidCourier\obj\Debug\net6.0\ref\1.RapidCourier.dll
