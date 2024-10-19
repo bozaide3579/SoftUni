@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\bin\Debug\net6.0\1.WildSurvival.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\bin\Debug\net6.0\1.WildSurvival.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\bin\Debug\net6.0\1.WildSurvival.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\bin\Debug\net6.0\1.WildSurvival.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\bin\Debug\net6.0\1.WildSurvival.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\obj\Debug\net6.0\1.WildSurvival.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\obj\Debug\net6.0\1.WildSurvival.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\obj\Debug\net6.0\1.WildSurvival.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\obj\Debug\net6.0\1.WildSurvival.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\obj\Debug\net6.0\1.WildSurvival.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\obj\Debug\net6.0\1.WildSurvival.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\obj\Debug\net6.0\refint\1.WildSurvival.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\obj\Debug\net6.0\1.WildSurvival.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\obj\Debug\net6.0\1.WildSurvival.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\1.WildSurvival\obj\Debug\net6.0\ref\1.WildSurvival.dll

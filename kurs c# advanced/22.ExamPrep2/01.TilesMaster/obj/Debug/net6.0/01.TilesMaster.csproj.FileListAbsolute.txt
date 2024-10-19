@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\bin\Debug\net6.0\01.TilesMaster.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\bin\Debug\net6.0\01.TilesMaster.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\bin\Debug\net6.0\01.TilesMaster.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\bin\Debug\net6.0\01.TilesMaster.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\bin\Debug\net6.0\01.TilesMaster.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\obj\Debug\net6.0\refint\01.TilesMaster.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TilesMaster\obj\Debug\net6.0\ref\01.TilesMaster.dll

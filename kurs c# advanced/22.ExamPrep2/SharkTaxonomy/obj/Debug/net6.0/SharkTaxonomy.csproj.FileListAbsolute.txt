@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\obj\Debug\net6.0\refint\SharkTaxonomy.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\SharkTaxonomy\obj\Debug\net6.0\ref\SharkTaxonomy.dll

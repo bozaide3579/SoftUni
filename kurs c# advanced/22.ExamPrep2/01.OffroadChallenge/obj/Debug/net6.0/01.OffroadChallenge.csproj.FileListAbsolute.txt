@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\obj\Debug\net6.0\refint\01.OffroadChallenge.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.OffroadChallenge\obj\Debug\net6.0\ref\01.OffroadChallenge.dll

@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3BA62F-8383-4327-8D32-2FE789A0419F}|03.ClothesMagazine\\03.ClothesMagazine.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\03.clothesmagazine\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3BA62F-8383-4327-8D32-2FE789A0419F}|03.ClothesMagazine\\03.ClothesMagazine.csproj|solutionrelative:03.clothesmagazine\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3BA62F-8383-4327-8D32-2FE789A0419F}|03.ClothesMagazine\\03.ClothesMagazine.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\03.clothesmagazine\\cloth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3BA62F-8383-4327-8D32-2FE789A0419F}|03.ClothesMagazine\\03.ClothesMagazine.csproj|solutionrelative:03.clothesmagazine\\cloth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3BA62F-8383-4327-8D32-2FE789A0419F}|03.ClothesMagazine\\03.ClothesMagazine.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\03.clothesmagazine\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3BA62F-8383-4327-8D32-2FE789A0419F}|03.ClothesMagazine\\03.ClothesMagazine.csproj|solutionrelative:03.clothesmagazine\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\Cloth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cloth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F4BBF5-6F3D-4B54-8C2D-F8C7F54203B9}|SoftUniKindergarten\\SoftUniKindergarten.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\softunikindergarten\\kindergarten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F4BBF5-6F3D-4B54-8C2D-F8C7F54203B9}|SoftUniKindergarten\\SoftUniKindergarten.csproj|solutionrelative:softunikindergarten\\kindergarten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F4BBF5-6F3D-4B54-8C2D-F8C7F54203B9}|SoftUniKindergarten\\SoftUniKindergarten.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\softunikindergarten\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F4BBF5-6F3D-4B54-8C2D-F8C7F54203B9}|SoftUniKindergarten\\SoftUniKindergarten.csproj|solutionrelative:softunikindergarten\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0F978B-7965-4B63-89E3-C87826902296}|SharkTaxonomy\\SharkTaxonomy.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\sharktaxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0F978B-7965-4B63-89E3-C87826902296}|SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:sharktaxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0F978B-7965-4B63-89E3-C87826902296}|SharkTaxonomy\\SharkTaxonomy.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\sharktaxonomy\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0F978B-7965-4B63-89E3-C87826902296}|SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:sharktaxonomy\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0F978B-7965-4B63-89E3-C87826902296}|SharkTaxonomy\\SharkTaxonomy.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\sharktaxonomy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0F978B-7965-4B63-89E3-C87826902296}|SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:sharktaxonomy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A4662C-B6AC-4EE9-ADF3-BCAEBCE81CC4}|MailClient\\MailClient.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\mailclient\\mailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A4662C-B6AC-4EE9-ADF3-BCAEBCE81CC4}|MailClient\\MailClient.csproj|solutionrelative:mailclient\\mailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EE509C-D204-46A6-8CA8-C7A47F51D633}|CocktailBar\\CocktailBar.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\cocktailbar\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EE509C-D204-46A6-8CA8-C7A47F51D633}|CocktailBar\\CocktailBar.csproj|solutionrelative:cocktailbar\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EE509C-D204-46A6-8CA8-C7A47F51D633}|CocktailBar\\CocktailBar.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\cocktailbar\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EE509C-D204-46A6-8CA8-C7A47F51D633}|CocktailBar\\CocktailBar.csproj|solutionrelative:cocktailbar\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F4BBF5-6F3D-4B54-8C2D-F8C7F54203B9}|SoftUniKindergarten\\SoftUniKindergarten.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\softunikindergarten\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F4BBF5-6F3D-4B54-8C2D-F8C7F54203B9}|SoftUniKindergarten\\SoftUniKindergarten.csproj|solutionrelative:softunikindergarten\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E009E633-87AD-4791-A080-2EF0394AE74E}|AutomotiveRepairShop\\AutomotiveRepairShop.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\automotiverepairshop\\repairshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E009E633-87AD-4791-A080-2EF0394AE74E}|AutomotiveRepairShop\\AutomotiveRepairShop.csproj|solutionrelative:automotiverepairshop\\repairshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E009E633-87AD-4791-A080-2EF0394AE74E}|AutomotiveRepairShop\\AutomotiveRepairShop.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\automotiverepairshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E009E633-87AD-4791-A080-2EF0394AE74E}|AutomotiveRepairShop\\AutomotiveRepairShop.csproj|solutionrelative:automotiverepairshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578D7324-BA72-473A-BFBB-C0AEC7E665DA}|02.WallDestroyer\\02.WallDestroyer.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\02.walldestroyer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578D7324-BA72-473A-BFBB-C0AEC7E665DA}|02.WallDestroyer\\02.WallDestroyer.csproj|solutionrelative:02.walldestroyer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA637342-D16F-4D92-A0A4-4EC546D8B231}|02.ClearSkies\\02.ClearSkies.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\02.clearskies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA637342-D16F-4D92-A0A4-4EC546D8B231}|02.ClearSkies\\02.ClearSkies.csproj|solutionrelative:02.clearskies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C52621-6EF0-44BB-A708-D7012AD8412E}|02.BlindMan\u2019sBuff\\02.BlindMan\u2019sBuff.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\02.blindman\u2019sbuff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C52621-6EF0-44BB-A708-D7012AD8412E}|02.BlindMan\u2019sBuff\\02.BlindMan\u2019sBuff.csproj|solutionrelative:02.blindman\u2019sbuff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF593955-E23D-4436-8244-006F553E12E7}|01.TilesMaster\\01.TilesMaster.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\01.tilesmaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF593955-E23D-4436-8244-006F553E12E7}|01.TilesMaster\\01.TilesMaster.csproj|solutionrelative:01.tilesmaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF0093B-F684-45ED-B60A-BA2C2760602D}|01.ApocalypsePreparation\\01.ApocalypsePreparation.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\01.apocalypsepreparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF0093B-F684-45ED-B60A-BA2C2760602D}|01.ApocalypsePreparation\\01.ApocalypsePreparation.csproj|solutionrelative:01.apocalypsepreparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96531F97-0201-4D03-B45B-B8D0766CCCC7}|01.TempleOfDoom\\01.TempleOfDoom.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\01.templeofdoom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96531F97-0201-4D03-B45B-B8D0766CCCC7}|01.TempleOfDoom\\01.TempleOfDoom.csproj|solutionrelative:01.templeofdoom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E009E633-87AD-4791-A080-2EF0394AE74E}|AutomotiveRepairShop\\AutomotiveRepairShop.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\automotiverepairshop\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E009E633-87AD-4791-A080-2EF0394AE74E}|AutomotiveRepairShop\\AutomotiveRepairShop.csproj|solutionrelative:automotiverepairshop\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620948CE-BA99-410F-991A-6B5D293A576F}|02.MouseInTheKitchen\\02.MouseInTheKitchen.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\02.mouseinthekitchen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620948CE-BA99-410F-991A-6B5D293A576F}|02.MouseInTheKitchen\\02.MouseInTheKitchen.csproj|solutionrelative:02.mouseinthekitchen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73ACD0A9-13F4-4177-B82B-F82A15E4559B}|02.FishingCompetition\\02.FishingCompetition.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\02.fishingcompetition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73ACD0A9-13F4-4177-B82B-F82A15E4559B}|02.FishingCompetition\\02.FishingCompetition.csproj|solutionrelative:02.fishingcompetition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB1FC32-67EF-40C4-A48D-63916E680706}|01.ChickenSnack\\01.ChickenSnack.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\01.chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB1FC32-67EF-40C4-A48D-63916E680706}|01.ChickenSnack\\01.ChickenSnack.csproj|solutionrelative:01.chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EE509C-D204-46A6-8CA8-C7A47F51D633}|CocktailBar\\CocktailBar.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\cocktailbar\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EE509C-D204-46A6-8CA8-C7A47F51D633}|CocktailBar\\CocktailBar.csproj|solutionrelative:cocktailbar\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A4662C-B6AC-4EE9-ADF3-BCAEBCE81CC4}|MailClient\\MailClient.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\mailclient\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A4662C-B6AC-4EE9-ADF3-BCAEBCE81CC4}|MailClient\\MailClient.csproj|solutionrelative:mailclient\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A4662C-B6AC-4EE9-ADF3-BCAEBCE81CC4}|MailClient\\MailClient.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\mailclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A4662C-B6AC-4EE9-ADF3-BCAEBCE81CC4}|MailClient\\MailClient.csproj|solutionrelative:mailclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5E0A47-830A-4BA2-A637-70FEF05BD788}|01.OffroadChallenge\\01.OffroadChallenge.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\01.offroadchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5E0A47-830A-4BA2-A637-70FEF05BD788}|01.OffroadChallenge\\01.OffroadChallenge.csproj|solutionrelative:01.offroadchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2532A79-F452-47F8-848E-94A95F243C8A}|2.CollectingStars\\02.CollectingStars.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\2.collectingstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2532A79-F452-47F8-848E-94A95F243C8A}|2.CollectingStars\\02.CollectingStars.csproj|solutionrelative:2.collectingstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AD67F7-013B-44FA-93FB-D4BF6B89B25E}|1.WildSurvival\\01.WildSurvival.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\22.examprep2\\1.wildsurvival\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AD67F7-013B-44FA-93FB-D4BF6B89B25E}|1.WildSurvival\\01.WildSurvival.csproj|solutionrelative:1.wildsurvival\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cloth.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\Cloth.cs",
+              "RelativeDocumentMoniker": "Cloth.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\Cloth.cs",
+              "RelativeToolTip": "Cloth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:02:26.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\03.ClothesMagazine\\Magazine.cs",
+              "RelativeDocumentMoniker": "03.ClothesMagazine\\Magazine.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\03.ClothesMagazine\\Magazine.cs",
+              "RelativeToolTip": "03.ClothesMagazine\\Magazine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:29:47.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Classifier.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\SharkTaxonomy\\Classifier.cs",
+              "RelativeDocumentMoniker": "SharkTaxonomy\\Classifier.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\SharkTaxonomy\\Classifier.cs",
+              "RelativeToolTip": "SharkTaxonomy\\Classifier.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwCYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:07:47.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\SharkTaxonomy\\StartUp.cs",
+              "RelativeDocumentMoniker": "SharkTaxonomy\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\SharkTaxonomy\\StartUp.cs",
+              "RelativeToolTip": "SharkTaxonomy\\StartUp.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwGUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:10:36.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shark.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\SharkTaxonomy\\Shark.cs",
+              "RelativeDocumentMoniker": "SharkTaxonomy\\Shark.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\SharkTaxonomy\\Shark.cs",
+              "RelativeToolTip": "SharkTaxonomy\\Shark.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:03:55.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kindergarten.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\SoftUniKindergarten\\Kindergarten.cs",
+              "RelativeDocumentMoniker": "SoftUniKindergarten\\Kindergarten.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\SoftUniKindergarten\\Kindergarten.cs",
+              "RelativeToolTip": "SoftUniKindergarten\\Kindergarten.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwE8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:26:59.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\SoftUniKindergarten\\StartUp.cs",
+              "RelativeDocumentMoniker": "SoftUniKindergarten\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\SoftUniKindergarten\\StartUp.cs",
+              "RelativeToolTip": "SoftUniKindergarten\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:25:43.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\03.ClothesMagazine\\StartUp.cs",
+              "RelativeDocumentMoniker": "03.ClothesMagazine\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\03.ClothesMagazine\\StartUp.cs",
+              "RelativeToolTip": "03.ClothesMagazine\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:26:20.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MailBox.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\MailClient\\MailBox.cs",
+              "RelativeDocumentMoniker": "MailClient\\MailBox.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\MailClient\\MailBox.cs",
+              "RelativeToolTip": "MailClient\\MailBox.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowEcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:40:20.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cloth.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\03.ClothesMagazine\\Cloth.cs",
+              "RelativeDocumentMoniker": "03.ClothesMagazine\\Cloth.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\03.ClothesMagazine\\Cloth.cs",
+              "RelativeToolTip": "03.ClothesMagazine\\Cloth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:27:20.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\CocktailBar\\Menu.cs",
+              "RelativeDocumentMoniker": "CocktailBar\\Menu.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\CocktailBar\\Menu.cs",
+              "RelativeToolTip": "CocktailBar\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:18:32.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cocktail.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\CocktailBar\\Cocktail.cs",
+              "RelativeDocumentMoniker": "CocktailBar\\Cocktail.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\CocktailBar\\Cocktail.cs",
+              "RelativeToolTip": "CocktailBar\\Cocktail.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:12:03.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\SoftUniKindergarten\\Child.cs",
+              "RelativeDocumentMoniker": "SoftUniKindergarten\\Child.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\SoftUniKindergarten\\Child.cs",
+              "RelativeToolTip": "SoftUniKindergarten\\Child.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:26:16.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepairShop.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\AutomotiveRepairShop\\RepairShop.cs",
+              "RelativeDocumentMoniker": "AutomotiveRepairShop\\RepairShop.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\AutomotiveRepairShop\\RepairShop.cs",
+              "RelativeToolTip": "AutomotiveRepairShop\\RepairShop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:07:24.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\AutomotiveRepairShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "AutomotiveRepairShop\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\AutomotiveRepairShop\\StartUp.cs",
+              "RelativeToolTip": "AutomotiveRepairShop\\StartUp.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwCUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:04:34.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\02.WallDestroyer\\Program.cs",
+              "RelativeDocumentMoniker": "02.WallDestroyer\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\02.WallDestroyer\\Program.cs",
+              "RelativeToolTip": "02.WallDestroyer\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAADwv38AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:05:43.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\01.ApocalypsePreparation\\Program.cs",
+              "RelativeDocumentMoniker": "01.ApocalypsePreparation\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\01.ApocalypsePreparation\\Program.cs",
+              "RelativeToolTip": "01.ApocalypsePreparation\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAiwFEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:15:18.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\02.ClearSkies\\Program.cs",
+              "RelativeDocumentMoniker": "02.ClearSkies\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\02.ClearSkies\\Program.cs",
+              "RelativeToolTip": "02.ClearSkies\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwHwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:02:18.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\01.TilesMaster\\Program.cs",
+              "RelativeDocumentMoniker": "01.TilesMaster\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\01.TilesMaster\\Program.cs",
+              "RelativeToolTip": "01.TilesMaster\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:17:03.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\02.BlindMan\u2019sBuff\\Program.cs",
+              "RelativeDocumentMoniker": "02.BlindMan\u2019sBuff\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\02.BlindMan\u2019sBuff\\Program.cs",
+              "RelativeToolTip": "02.BlindMan\u2019sBuff\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwEIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:40:44.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\01.TempleOfDoom\\Program.cs",
+              "RelativeDocumentMoniker": "01.TempleOfDoom\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\01.TempleOfDoom\\Program.cs",
+              "RelativeToolTip": "01.TempleOfDoom\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:53:20.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\AutomotiveRepairShop\\Vehicle.cs",
+              "RelativeDocumentMoniker": "AutomotiveRepairShop\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\AutomotiveRepairShop\\Vehicle.cs",
+              "RelativeToolTip": "AutomotiveRepairShop\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:04:50.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\02.FishingCompetition\\Program.cs",
+              "RelativeDocumentMoniker": "02.FishingCompetition\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\02.FishingCompetition\\Program.cs",
+              "RelativeToolTip": "02.FishingCompetition\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:59:10.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\2.CollectingStars\\Program.cs",
+              "RelativeDocumentMoniker": "2.CollectingStars\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\2.CollectingStars\\Program.cs",
+              "RelativeToolTip": "2.CollectingStars\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:34:20.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\02.MouseInTheKitchen\\Program.cs",
+              "RelativeDocumentMoniker": "02.MouseInTheKitchen\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\02.MouseInTheKitchen\\Program.cs",
+              "RelativeToolTip": "02.MouseInTheKitchen\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwIsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:56:13.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\01.ChickenSnack\\Program.cs",
+              "RelativeDocumentMoniker": "01.ChickenSnack\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\01.ChickenSnack\\Program.cs",
+              "RelativeToolTip": "01.ChickenSnack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:40:34.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Mail.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\MailClient\\Mail.cs",
+              "RelativeDocumentMoniker": "MailClient\\Mail.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\MailClient\\Mail.cs",
+              "RelativeToolTip": "MailClient\\Mail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:37:32.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\MailClient\\StartUp.cs",
+              "RelativeDocumentMoniker": "MailClient\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\MailClient\\StartUp.cs",
+              "RelativeToolTip": "MailClient\\StartUp.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwEYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:44:43.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\1.WildSurvival\\Program.cs",
+              "RelativeDocumentMoniker": "1.WildSurvival\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\1.WildSurvival\\Program.cs",
+              "RelativeToolTip": "1.WildSurvival\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:27:38.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\CocktailBar\\StartUp.cs",
+              "RelativeDocumentMoniker": "CocktailBar\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\CocktailBar\\StartUp.cs",
+              "RelativeToolTip": "CocktailBar\\StartUp.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBZwC8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:35:54.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\01.OffroadChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "01.OffroadChallenge\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\22.ExamPrep2\\01.OffroadChallenge\\Program.cs",
+              "RelativeToolTip": "01.OffroadChallenge\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:32:52.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

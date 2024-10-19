@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\bin\Debug\net6.0\01.TempleOfDoom.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\bin\Debug\net6.0\01.TempleOfDoom.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\bin\Debug\net6.0\01.TempleOfDoom.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\bin\Debug\net6.0\01.TempleOfDoom.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\bin\Debug\net6.0\01.TempleOfDoom.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\obj\Debug\net6.0\01.TempleOfDoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\obj\Debug\net6.0\01.TempleOfDoom.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\obj\Debug\net6.0\01.TempleOfDoom.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\obj\Debug\net6.0\01.TempleOfDoom.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\obj\Debug\net6.0\01.TempleOfDoom.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\obj\Debug\net6.0\01.TempleOfDoom.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\obj\Debug\net6.0\refint\01.TempleOfDoom.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\obj\Debug\net6.0\01.TempleOfDoom.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\obj\Debug\net6.0\01.TempleOfDoom.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\22.ExamPrep2\01.TempleOfDoom\obj\Debug\net6.0\ref\01.TempleOfDoom.dll
