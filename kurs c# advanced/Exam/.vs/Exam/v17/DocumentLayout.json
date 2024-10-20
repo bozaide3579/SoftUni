@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A44EEAF9-C5CA-4174-8D09-EE3E18AD7FE9}|ct\\ct.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\exam\\ct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44EEAF9-C5CA-4174-8D09-EE3E18AD7FE9}|ct\\ct.csproj|solutionrelative:ct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EAF2AF-BAD6-4751-B6EF-DD3D2A0FB0C5}|02.BombHasBeenPlanted\\02.BombHasBeenPlanted.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\exam\\02.bombhasbeenplanted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13EAF2AF-BAD6-4751-B6EF-DD3D2A0FB0C5}|02.BombHasBeenPlanted\\02.BombHasBeenPlanted.csproj|solutionrelative:02.bombhasbeenplanted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5EB9CE-4CAA-40E2-987B-4A047125191E}|CreaturesOfTheCode\\CreaturesOfTheCode.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\exam\\creaturesofthecode\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5EB9CE-4CAA-40E2-987B-4A047125191E}|CreaturesOfTheCode\\CreaturesOfTheCode.csproj|solutionrelative:creaturesofthecode\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5EB9CE-4CAA-40E2-987B-4A047125191E}|CreaturesOfTheCode\\CreaturesOfTheCode.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\exam\\creaturesofthecode\\mythicalcreatureshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5EB9CE-4CAA-40E2-987B-4A047125191E}|CreaturesOfTheCode\\CreaturesOfTheCode.csproj|solutionrelative:creaturesofthecode\\mythicalcreatureshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5EB9CE-4CAA-40E2-987B-4A047125191E}|CreaturesOfTheCode\\CreaturesOfTheCode.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\exam\\creaturesofthecode\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5EB9CE-4CAA-40E2-987B-4A047125191E}|CreaturesOfTheCode\\CreaturesOfTheCode.csproj|solutionrelative:creaturesofthecode\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA7DE4F-1435-4A46-8187-A937C22AFB12}|01.BallGame\\01.BallGame.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\exam\\01.ballgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA7DE4F-1435-4A46-8187-A937C22AFB12}|01.BallGame\\01.BallGame.csproj|solutionrelative:01.ballgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\Exam\\ct\\Program.cs",
+              "RelativeDocumentMoniker": "ct\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\Exam\\ct\\Program.cs",
+              "RelativeToolTip": "ct\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAUwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:20:35.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MythicalCreaturesHub.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\Exam\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "RelativeDocumentMoniker": "CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\Exam\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "RelativeToolTip": "CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:37:28.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\Exam\\CreaturesOfTheCode\\Creature.cs",
+              "RelativeDocumentMoniker": "CreaturesOfTheCode\\Creature.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\Exam\\CreaturesOfTheCode\\Creature.cs",
+              "RelativeToolTip": "CreaturesOfTheCode\\Creature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:32:14.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\Exam\\CreaturesOfTheCode\\StartUp.cs",
+              "RelativeDocumentMoniker": "CreaturesOfTheCode\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\Exam\\CreaturesOfTheCode\\StartUp.cs",
+              "RelativeToolTip": "CreaturesOfTheCode\\StartUp.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:31:47.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\Exam\\02.BombHasBeenPlanted\\Program.cs",
+              "RelativeDocumentMoniker": "02.BombHasBeenPlanted\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\Exam\\02.BombHasBeenPlanted\\Program.cs",
+              "RelativeToolTip": "02.BombHasBeenPlanted\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:35:18.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\Exam\\01.BallGame\\Program.cs",
+              "RelativeDocumentMoniker": "01.BallGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\Exam\\01.BallGame\\Program.cs",
+              "RelativeToolTip": "01.BallGame\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwGAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:01:25.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

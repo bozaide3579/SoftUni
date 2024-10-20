@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\bin\Debug\net6.0\02.BombHasBeenPlanted.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\bin\Debug\net6.0\02.BombHasBeenPlanted.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\bin\Debug\net6.0\02.BombHasBeenPlanted.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\bin\Debug\net6.0\02.BombHasBeenPlanted.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\bin\Debug\net6.0\02.BombHasBeenPlanted.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\obj\Debug\net6.0\refint\02.BombHasBeenPlanted.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\02.BombHasBeenPlanted\obj\Debug\net6.0\ref\02.BombHasBeenPlanted.dll

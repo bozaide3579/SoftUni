@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\bin\Debug\net6.0\ct.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\bin\Debug\net6.0\ct.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\bin\Debug\net6.0\ct.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\bin\Debug\net6.0\ct.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\bin\Debug\net6.0\ct.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\obj\Debug\net6.0\ct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\obj\Debug\net6.0\ct.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\obj\Debug\net6.0\ct.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\obj\Debug\net6.0\ct.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\obj\Debug\net6.0\ct.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\obj\Debug\net6.0\ct.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\obj\Debug\net6.0\refint\ct.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\obj\Debug\net6.0\ct.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\obj\Debug\net6.0\ct.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\ct\obj\Debug\net6.0\ref\ct.dll

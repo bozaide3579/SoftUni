@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\obj\Debug\net6.0\refint\CreaturesOfTheCode.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# advanced\Exam\CreaturesOfTheCode\obj\Debug\net6.0\ref\CreaturesOfTheCode.dll
