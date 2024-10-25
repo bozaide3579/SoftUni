@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\23.AlgorithmsIntroduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1459684-64C3-4EBF-85F8-53C8DAF02AE9}|2.RecursiveFactorial\\2.RecursiveFactorial.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\23.algorithmsintroduction\\2.recursivefactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1459684-64C3-4EBF-85F8-53C8DAF02AE9}|2.RecursiveFactorial\\2.RecursiveFactorial.csproj|solutionrelative:2.recursivefactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F569B816-DF8A-4568-9956-0AF2C81F1EDE}|1.RecursiveArraySum\\1.RecursiveArraySum.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# advanced\\23.algorithmsintroduction\\1.recursivearraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F569B816-DF8A-4568-9956-0AF2C81F1EDE}|1.RecursiveArraySum\\1.RecursiveArraySum.csproj|solutionrelative:1.recursivearraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\23.AlgorithmsIntroduction\\2.RecursiveFactorial\\Program.cs",
+              "RelativeDocumentMoniker": "2.RecursiveFactorial\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\23.AlgorithmsIntroduction\\2.RecursiveFactorial\\Program.cs",
+              "RelativeToolTip": "2.RecursiveFactorial\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:19:33.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\23.AlgorithmsIntroduction\\1.RecursiveArraySum\\Program.cs",
+              "RelativeDocumentMoniker": "1.RecursiveArraySum\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# advanced\\23.AlgorithmsIntroduction\\1.RecursiveArraySum\\Program.cs",
+              "RelativeToolTip": "1.RecursiveArraySum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:32:39.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\bin\Debug\net6.0\Animals.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\bin\Debug\net6.0\Animals.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\bin\Debug\net6.0\Animals.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\obj\Debug\net6.0\Animals.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\obj\Debug\net6.0\Animals.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\obj\Debug\net6.0\refint\Animals.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\obj\Debug\net6.0\Animals.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\4.ExerciseInheritance\Animals\obj\Debug\net6.0\ref\Animals.dll

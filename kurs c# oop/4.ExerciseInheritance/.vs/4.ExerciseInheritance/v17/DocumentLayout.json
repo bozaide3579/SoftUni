@@ -1,0 +1,780 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|solutionrelative:animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|solutionrelative:animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\animals\\kitten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|solutionrelative:animals\\kitten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|solutionrelative:animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\animals\\tomcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|solutionrelative:animals\\tomcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\animals\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|solutionrelative:animals\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C04D3-C2A3-4EDA-B932-E209846AFEFB}|Animals\\Animals.csproj|solutionrelative:animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\restaurant\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\restaurant\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\restaurant\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\restaurant\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\restaurant\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\restaurant\\maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\restaurant\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\restaurant\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\restaurant\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\restaurant\\hotbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\hotbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\restaurant\\coldbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\coldbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\restaurant\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\restaurant\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657F6239-77B4-4C1F-B0B8-ADDCEA57FC60}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\needforspeed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\needforspeed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\needforspeed\\racemotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\racemotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\needforspeed\\sportcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\sportcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\needforspeed\\familycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\familycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\needforspeed\\crossmotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\crossmotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\needforspeed\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B7DAB1-343B-4E65-8BB9-4D06DBD20A22}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\playersandmonsters\\bladeknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\bladeknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\playersandmonsters\\soulmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\soulmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\playersandmonsters\\darkknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\darkknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\playersandmonsters\\darkwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\darkwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\playersandmonsters\\museelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\museelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\playersandmonsters\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\playersandmonsters\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\playersandmonsters\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\playersandmonsters\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8049FD5-B60E-4087-AD9C-390E4719F865}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\zoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|solutionrelative:zoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\zoo\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|solutionrelative:zoo\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\zoo\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|solutionrelative:zoo\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\zoo\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|solutionrelative:zoo\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\zoo\\lizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|solutionrelative:zoo\\lizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\zoo\\gorilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|solutionrelative:zoo\\gorilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\zoo\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|solutionrelative:zoo\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B1DC21-FE56-4AF5-94FB-00B33B1DB822}|Zoo\\Zoo.csproj|solutionrelative:zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965310D2-7D83-481C-886E-AC8FE59DC679}|Person\\Person.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965310D2-7D83-481C-886E-AC8FE59DC679}|Person\\Person.csproj|solutionrelative:person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965310D2-7D83-481C-886E-AC8FE59DC679}|Person\\Person.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\person\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965310D2-7D83-481C-886E-AC8FE59DC679}|Person\\Person.csproj|solutionrelative:person\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965310D2-7D83-481C-886E-AC8FE59DC679}|Person\\Person.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\4.exerciseinheritance\\person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965310D2-7D83-481C-886E-AC8FE59DC679}|Person\\Person.csproj|solutionrelative:person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\StartUp.cs",
+              "RelativeDocumentMoniker": "Animals\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\StartUp.cs",
+              "RelativeToolTip": "Animals\\StartUp.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:48:25.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kitten.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\Kitten.cs",
+              "RelativeDocumentMoniker": "Animals\\Kitten.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\Kitten.cs",
+              "RelativeToolTip": "Animals\\Kitten.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:52:29.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tomcat.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\Tomcat.cs",
+              "RelativeDocumentMoniker": "Animals\\Tomcat.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\Tomcat.cs",
+              "RelativeToolTip": "Animals\\Tomcat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:52:11.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frog.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\Frog.cs",
+              "RelativeDocumentMoniker": "Animals\\Frog.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\Frog.cs",
+              "RelativeToolTip": "Animals\\Frog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:51:49.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "Animals\\Cat.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\Cat.cs",
+              "RelativeToolTip": "Animals\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:51:34.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "Animals\\Dog.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\Dog.cs",
+              "RelativeToolTip": "Animals\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:51:10.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "Animals\\Animal.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Animals\\Animal.cs",
+              "RelativeToolTip": "Animals\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:50:02.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cake.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Cake.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Cake.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Cake.cs",
+              "RelativeToolTip": "Restaurant\\Cake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:33:54.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Soup.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Soup.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Soup.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Soup.cs",
+              "RelativeToolTip": "Restaurant\\Soup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:33:36.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Fish.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Fish.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Fish.cs",
+              "RelativeToolTip": "Restaurant\\Fish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:32:40.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dessert.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Dessert.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Dessert.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Dessert.cs",
+              "RelativeToolTip": "Restaurant\\Dessert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:31:20.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Starter.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Starter.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Starter.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Starter.cs",
+              "RelativeToolTip": "Restaurant\\Starter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:30:54.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainDish.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\MainDish.cs",
+              "RelativeDocumentMoniker": "Restaurant\\MainDish.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\MainDish.cs",
+              "RelativeToolTip": "Restaurant\\MainDish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:30:26.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Coffee.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Coffee.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Coffee.cs",
+              "RelativeToolTip": "Restaurant\\Coffee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:24:35.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Tea.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Tea.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Tea.cs",
+              "RelativeToolTip": "Restaurant\\Tea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:24:12.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ColdBeverage.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\ColdBeverage.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ColdBeverage.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\ColdBeverage.cs",
+              "RelativeToolTip": "Restaurant\\ColdBeverage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:18:22.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HotBeverage.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\HotBeverage.cs",
+              "RelativeDocumentMoniker": "Restaurant\\HotBeverage.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\HotBeverage.cs",
+              "RelativeToolTip": "Restaurant\\HotBeverage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:17:50.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Beverage.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Beverage.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Beverage.cs",
+              "RelativeToolTip": "Restaurant\\Beverage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:14:29.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Food.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Food.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Food.cs",
+              "RelativeToolTip": "Restaurant\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:14:19.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Product.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Product.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Restaurant\\Product.cs",
+              "RelativeToolTip": "Restaurant\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:14:11.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SportCar.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\SportCar.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\SportCar.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\SportCar.cs",
+              "RelativeToolTip": "NeedForSpeed\\SportCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:00:23.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FamilyCar.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\FamilyCar.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\FamilyCar.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\FamilyCar.cs",
+              "RelativeToolTip": "NeedForSpeed\\FamilyCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:00:00.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\Car.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\Car.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\Car.cs",
+              "RelativeToolTip": "NeedForSpeed\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:53:53.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\Vehicle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\Vehicle.cs",
+              "RelativeToolTip": "NeedForSpeed\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:52:08.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RaceMotorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\RaceMotorcycle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\RaceMotorcycle.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\RaceMotorcycle.cs",
+              "RelativeToolTip": "NeedForSpeed\\RaceMotorcycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:54:21.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CrossMotorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\CrossMotorcycle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\CrossMotorcycle.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\CrossMotorcycle.cs",
+              "RelativeToolTip": "NeedForSpeed\\CrossMotorcycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:59:31.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\NeedForSpeed\\Motorcycle.cs",
+              "RelativeToolTip": "NeedForSpeed\\Motorcycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:53:24.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BladeKnight.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\BladeKnight.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\BladeKnight.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\BladeKnight.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\BladeKnight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:49:32.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SoulMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\SoulMaster.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\SoulMaster.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\SoulMaster.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\SoulMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:49:06.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DarkKnight.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\DarkKnight.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\DarkKnight.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\DarkKnight.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\DarkKnight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:48:27.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DarkWizard.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\DarkWizard.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\DarkWizard.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\DarkWizard.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\DarkWizard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:48:06.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MuseElf.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\MuseElf.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\MuseElf.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\MuseElf.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\MuseElf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:47:42.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\Knight.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Knight.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\Knight.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Knight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:47:11.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\Wizard.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Wizard.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\Wizard.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Wizard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:46:12.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Elf.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\Elf.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Elf.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\Elf.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Elf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:45:59.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\Hero.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Hero.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\PlayersAndMonsters\\Hero.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Hero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:43:44.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Gorilla.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Gorilla.cs",
+              "RelativeDocumentMoniker": "Zoo\\Gorilla.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Gorilla.cs",
+              "RelativeToolTip": "Zoo\\Gorilla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:12:43.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Lizard.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Lizard.cs",
+              "RelativeDocumentMoniker": "Zoo\\Lizard.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Lizard.cs",
+              "RelativeToolTip": "Zoo\\Lizard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:11:45.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Mammal.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Mammal.cs",
+              "RelativeDocumentMoniker": "Zoo\\Mammal.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Mammal.cs",
+              "RelativeToolTip": "Zoo\\Mammal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:12:32.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Reptile.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Reptile.cs",
+              "RelativeDocumentMoniker": "Zoo\\Reptile.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Reptile.cs",
+              "RelativeToolTip": "Zoo\\Reptile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:11:37.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Snake.cs",
+              "RelativeDocumentMoniker": "Zoo\\Snake.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Snake.cs",
+              "RelativeToolTip": "Zoo\\Snake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:11:54.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\StartUp.cs",
+              "RelativeDocumentMoniker": "Zoo\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\StartUp.cs",
+              "RelativeToolTip": "Zoo\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:10:56.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Bear.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Bear.cs",
+              "RelativeDocumentMoniker": "Zoo\\Bear.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Bear.cs",
+              "RelativeToolTip": "Zoo\\Bear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:12:50.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Animal.cs",
+              "RelativeDocumentMoniker": "Zoo\\Animal.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Zoo\\Animal.cs",
+              "RelativeToolTip": "Zoo\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:11:23.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Person\\Child.cs",
+              "RelativeDocumentMoniker": "Person\\Child.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Person\\Child.cs",
+              "RelativeToolTip": "Person\\Child.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:40:51.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Person\\Person.cs",
+              "RelativeDocumentMoniker": "Person\\Person.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Person\\Person.cs",
+              "RelativeToolTip": "Person\\Person.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:40:31.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Person\\StartUp.cs",
+              "RelativeDocumentMoniker": "Person\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\4.ExerciseInheritance\\Person\\StartUp.cs",
+              "RelativeToolTip": "Person\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:38:28.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
