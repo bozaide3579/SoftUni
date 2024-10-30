@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\refint\Cars.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\7.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\ref\Cars.dll

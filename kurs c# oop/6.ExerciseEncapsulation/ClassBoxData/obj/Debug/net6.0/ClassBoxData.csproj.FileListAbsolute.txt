@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\obj\Debug\net6.0\refint\ClassBoxData.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\6.ExerciseEncapsulation\ClassBoxData\obj\Debug\net6.0\ref\ClassBoxData.dll
