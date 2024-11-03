@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\refint\MilitaryElite.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\8.ExerciseInterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\ref\MilitaryElite.dll
