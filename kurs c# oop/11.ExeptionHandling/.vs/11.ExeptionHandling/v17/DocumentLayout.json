@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\11.ExeptionHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0137999-54D7-4DA5-9C6D-13B0E0949E57}|PlayCatch\\PlayCatch.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\11.exeptionhandling\\playcatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0137999-54D7-4DA5-9C6D-13B0E0949E57}|PlayCatch\\PlayCatch.csproj|solutionrelative:playcatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8BB4CF-2264-45D5-A594-2A3C1300455E}|SumOfInteger\\SumOfInteger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\11.exeptionhandling\\sumofinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8BB4CF-2264-45D5-A594-2A3C1300455E}|SumOfInteger\\SumOfInteger.csproj|solutionrelative:sumofinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394671F0-9270-4801-B77F-47B6A932C2A2}|EnterNumbers\\EnterNumbers.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\11.exeptionhandling\\enternumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394671F0-9270-4801-B77F-47B6A932C2A2}|EnterNumbers\\EnterNumbers.csproj|solutionrelative:enternumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE4E6-E90B-43FD-ABAD-42B8DA6341BF}|SquareRoot\\SquareRoot.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\11.exeptionhandling\\squareroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE4E6-E90B-43FD-ABAD-42B8DA6341BF}|SquareRoot\\SquareRoot.csproj|solutionrelative:squareroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\11.ExeptionHandling\\PlayCatch\\Program.cs",
+              "RelativeDocumentMoniker": "PlayCatch\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\11.ExeptionHandling\\PlayCatch\\Program.cs",
+              "RelativeToolTip": "PlayCatch\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:01:23.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\11.ExeptionHandling\\SumOfInteger\\Program.cs",
+              "RelativeDocumentMoniker": "SumOfInteger\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\11.ExeptionHandling\\SumOfInteger\\Program.cs",
+              "RelativeToolTip": "SumOfInteger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:53:51.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\11.ExeptionHandling\\EnterNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "EnterNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\11.ExeptionHandling\\EnterNumbers\\Program.cs",
+              "RelativeToolTip": "EnterNumbers\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:59:29.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\11.ExeptionHandling\\SquareRoot\\Program.cs",
+              "RelativeDocumentMoniker": "SquareRoot\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\11.ExeptionHandling\\SquareRoot\\Program.cs",
+              "RelativeToolTip": "SquareRoot\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:20:02.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

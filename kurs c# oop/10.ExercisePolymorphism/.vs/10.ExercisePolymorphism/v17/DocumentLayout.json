@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\factories\\foodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\factories\\foodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\factories\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\factories\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\factories\\interfaces\\ifoodsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\factories\\interfaces\\ifoodsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\factories\\interfaces\\ianimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\factories\\interfaces\\ianimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\core\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\core\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,6 +27,10 @@
       "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\foods\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\foods\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\foods\\vegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\foods\\vegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,16 +39,48 @@
       "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\foods\\seeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\foods\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\foods\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\foods\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\foods\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\foods\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\foods\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,48 +95,36 @@
       "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\io\\consolereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\io\\interfaces\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\io\\interfaces\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\io\\interfaces\\ireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\io\\interfaces\\ireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\io\\interfaces\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\io\\interfaces\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\factories\\foodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\factories\\foodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\factories\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\factories\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\factories\\interfaces\\ifoodsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\factories\\interfaces\\ifoodsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\factories\\interfaces\\ianimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\factories\\interfaces\\ianimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\models\\animals\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\models\\animals\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\wildfarm\\core\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26249A7-6642-4523-85FF-92B1BA02CC4F}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\core\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC8EAD84-86BC-481C-AA5B-A9366FBF7E45}|Vehicles\\Vehicles.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\10.exercisepolymorphism\\vehicles\\io\\consolereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -186,323 +186,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IFoodsFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\Interfaces\\IFoodsFactory.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Factories\\Interfaces\\IFoodsFactory.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\Interfaces\\IFoodsFactory.cs",
-              "RelativeToolTip": "WildFarm\\Factories\\Interfaces\\IFoodsFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T19:07:46.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAnimalFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\Interfaces\\IAnimalFactory.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Factories\\Interfaces\\IAnimalFactory.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\Interfaces\\IAnimalFactory.cs",
-              "RelativeToolTip": "WildFarm\\Factories\\Interfaces\\IAnimalFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T19:06:42.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AnimalFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\AnimalFactory.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Factories\\AnimalFactory.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\AnimalFactory.cs",
-              "RelativeToolTip": "WildFarm\\Factories\\AnimalFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T19:11:15.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FoodFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\FoodFactory.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Factories\\FoodFactory.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\FoodFactory.cs",
-              "RelativeToolTip": "WildFarm\\Factories\\FoodFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T19:09:04.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bird.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Bird.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Bird.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Bird.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Animals\\Bird.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:33:11.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IEngine.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Core\\Interfaces\\IEngine.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Core\\Interfaces\\IEngine.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Core\\Interfaces\\IEngine.cs",
-              "RelativeToolTip": "WildFarm\\Core\\Interfaces\\IEngine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:07:13.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\StartUp.cs",
-              "RelativeDocumentMoniker": "WildFarm\\StartUp.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\StartUp.cs",
-              "RelativeToolTip": "WildFarm\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:05:10.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IMammal.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IMammal.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Interfaces\\IMammal.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IMammal.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Interfaces\\IMammal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:18:12.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IFood.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IFood.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Interfaces\\IFood.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IFood.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Interfaces\\IFood.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:12:37.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IFeline.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IFeline.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Interfaces\\IFeline.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IFeline.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Interfaces\\IFeline.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:18:42.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IBird.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IBird.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Interfaces\\IBird.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IBird.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Interfaces\\IBird.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:17:22.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IAnimal.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IAnimal.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Interfaces\\IAnimal.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IAnimal.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Interfaces\\IAnimal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:13:19.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Vegetable.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Vegetable.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Foods\\Vegetable.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Vegetable.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Foods\\Vegetable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:21:38.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Seeds.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Seeds.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Foods\\Seeds.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Seeds.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Foods\\Seeds.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:23:28.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Meat.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Meat.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Foods\\Meat.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Meat.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Foods\\Meat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:22:54.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Fruit.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Fruit.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Foods\\Fruit.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Fruit.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Foods\\Fruit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:22:24.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Food.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Food.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Foods\\Food.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Food.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Foods\\Food.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:20:12.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Animal.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Animal.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Animal.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Animals\\Animal.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCYAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:25:06.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ConsoleWriter.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\ConsoleWriter.cs",
-              "RelativeDocumentMoniker": "WildFarm\\IO\\ConsoleWriter.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\ConsoleWriter.cs",
-              "RelativeToolTip": "WildFarm\\IO\\ConsoleWriter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:14:38.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ConsoleReader.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\ConsoleReader.cs",
-              "RelativeDocumentMoniker": "WildFarm\\IO\\ConsoleReader.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\ConsoleReader.cs",
-              "RelativeToolTip": "WildFarm\\IO\\ConsoleReader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:14:23.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IReader.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\Interfaces\\IReader.cs",
-              "RelativeDocumentMoniker": "WildFarm\\IO\\Interfaces\\IReader.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\Interfaces\\IReader.cs",
-              "RelativeToolTip": "WildFarm\\IO\\Interfaces\\IReader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:10:43.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IWriter.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\Interfaces\\IWriter.cs",
-              "RelativeDocumentMoniker": "WildFarm\\IO\\Interfaces\\IWriter.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\Interfaces\\IWriter.cs",
-              "RelativeToolTip": "WildFarm\\IO\\Interfaces\\IWriter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:09:06.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Core\\Engine.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Core\\Engine.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Core\\Engine.cs",
-              "RelativeToolTip": "WildFarm\\Core\\Engine.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAlwD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:07:29.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Cat.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Cat.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Cat.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Cat.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Animals\\Cat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:55:19.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "Dog.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Dog.cs",
               "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Dog.cs",
@@ -515,20 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Feline.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Feline.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Feline.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Feline.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Animals\\Feline.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:40:42.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 15,
               "Title": "Hen.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Hen.cs",
               "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Hen.cs",
@@ -541,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 14,
               "Title": "Mammal.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Mammal.cs",
               "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Mammal.cs",
@@ -554,20 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Owl.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Owl.cs",
-              "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Owl.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Owl.cs",
-              "RelativeToolTip": "WildFarm\\Models\\Animals\\Owl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:45:47.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 13,
               "Title": "Mouse.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Mouse.cs",
               "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Mouse.cs",
@@ -580,7 +242,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 12,
+              "Title": "Owl.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Owl.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Owl.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Owl.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animals\\Owl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:45:47.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Tiger.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Tiger.cs",
               "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Tiger.cs",
@@ -593,6 +268,331 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Food.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Foods\\Food.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Food.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Foods\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:20:12.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Fruit.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Foods\\Fruit.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Fruit.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Foods\\Fruit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:22:24.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Seeds.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Seeds.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Foods\\Seeds.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Seeds.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Foods\\Seeds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:23:28.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vegetable.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Vegetable.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Foods\\Vegetable.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Vegetable.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Foods\\Vegetable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:21:38.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Meat.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Foods\\Meat.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Foods\\Meat.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Foods\\Meat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:22:54.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IAnimal.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Interfaces\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IAnimal.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Interfaces\\IAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:13:19.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBird.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IBird.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Interfaces\\IBird.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IBird.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Interfaces\\IBird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:17:22.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFeline.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IFeline.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Interfaces\\IFeline.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IFeline.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Interfaces\\IFeline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:18:42.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFood.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IFood.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Interfaces\\IFood.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IFood.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Interfaces\\IFood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:12:37.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMammal.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IMammal.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Interfaces\\IMammal.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Interfaces\\IMammal.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Interfaces\\IMammal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:18:12.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\StartUp.cs",
+              "RelativeDocumentMoniker": "WildFarm\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\StartUp.cs",
+              "RelativeToolTip": "WildFarm\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:05:10.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Feline.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Feline.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Feline.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Feline.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animals\\Feline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:40:42.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Cat.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Cat.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animals\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:55:19.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Bird.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Bird.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Bird.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animals\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:33:11.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Models\\Animals\\Animal.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Models\\Animals\\Animal.cs",
+              "RelativeToolTip": "WildFarm\\Models\\Animals\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:25:06.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConsoleWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\ConsoleWriter.cs",
+              "RelativeDocumentMoniker": "WildFarm\\IO\\ConsoleWriter.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\ConsoleWriter.cs",
+              "RelativeToolTip": "WildFarm\\IO\\ConsoleWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:14:38.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConsoleReader.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\ConsoleReader.cs",
+              "RelativeDocumentMoniker": "WildFarm\\IO\\ConsoleReader.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\ConsoleReader.cs",
+              "RelativeToolTip": "WildFarm\\IO\\ConsoleReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:14:23.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\Interfaces\\IWriter.cs",
+              "RelativeDocumentMoniker": "WildFarm\\IO\\Interfaces\\IWriter.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\Interfaces\\IWriter.cs",
+              "RelativeToolTip": "WildFarm\\IO\\Interfaces\\IWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:09:06.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IReader.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\Interfaces\\IReader.cs",
+              "RelativeDocumentMoniker": "WildFarm\\IO\\Interfaces\\IReader.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\IO\\Interfaces\\IReader.cs",
+              "RelativeToolTip": "WildFarm\\IO\\Interfaces\\IReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:10:43.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FoodFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\FoodFactory.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Factories\\FoodFactory.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\FoodFactory.cs",
+              "RelativeToolTip": "WildFarm\\Factories\\FoodFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:09:04.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AnimalFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\AnimalFactory.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Factories\\AnimalFactory.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\AnimalFactory.cs",
+              "RelativeToolTip": "WildFarm\\Factories\\AnimalFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:11:15.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IFoodsFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\Interfaces\\IFoodsFactory.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Factories\\Interfaces\\IFoodsFactory.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\Interfaces\\IFoodsFactory.cs",
+              "RelativeToolTip": "WildFarm\\Factories\\Interfaces\\IFoodsFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:07:46.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAnimalFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\Interfaces\\IAnimalFactory.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Factories\\Interfaces\\IAnimalFactory.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Factories\\Interfaces\\IAnimalFactory.cs",
+              "RelativeToolTip": "WildFarm\\Factories\\Interfaces\\IAnimalFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:06:42.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Core\\Engine.cs",
+              "RelativeToolTip": "WildFarm\\Core\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:07:29.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Core\\Interfaces\\IEngine.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Core\\Interfaces\\IEngine.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\WildFarm\\Core\\Interfaces\\IEngine.cs",
+              "RelativeToolTip": "WildFarm\\Core\\Interfaces\\IEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:07:13.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 33,
               "Title": "IWriter.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\10.ExercisePolymorphism\\Vehicles\\IO\\Interfaces\\IWriter.cs",
@@ -601,8 +601,7 @@
               "RelativeToolTip": "Vehicles\\IO\\Interfaces\\IWriter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:54:43.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T12:54:43.998Z"
             },
             {
               "$type": "Document",
@@ -614,8 +613,7 @@
               "RelativeToolTip": "Vehicles\\IO\\Interfaces\\IReader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:54:32.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T12:54:32.126Z"
             },
             {
               "$type": "Document",
@@ -627,8 +625,7 @@
               "RelativeToolTip": "Vehicles\\IO\\ConsoleReader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:55:22.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T12:55:22.422Z"
             },
             {
               "$type": "Document",
@@ -640,8 +637,7 @@
               "RelativeToolTip": "Vehicles\\Factories\\Interfaces\\IVehicleFactory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T14:26:42.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T14:26:42.354Z"
             },
             {
               "$type": "Document",
@@ -653,8 +649,7 @@
               "RelativeToolTip": "Vehicles\\Factories\\VehicleFactory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T14:29:02.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T14:29:02.938Z"
             },
             {
               "$type": "Document",
@@ -666,8 +661,7 @@
               "RelativeToolTip": "Vehicles\\Core\\Interfaces\\IEngine.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:47:34.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T12:47:34.601Z"
             },
             {
               "$type": "Document",
@@ -679,8 +673,7 @@
               "RelativeToolTip": "Vehicles\\Core\\Engine.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAcwFcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:48:19.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T12:48:19.176Z"
             },
             {
               "$type": "Document",
@@ -692,8 +685,7 @@
               "RelativeToolTip": "Vehicles\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T11:48:59.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T11:48:59.009Z"
             },
             {
               "$type": "Document",
@@ -705,8 +697,7 @@
               "RelativeToolTip": "Vehicles\\Models\\Vehicle.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:23:47.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T12:23:47.81Z"
             },
             {
               "$type": "Document",
@@ -718,8 +709,7 @@
               "RelativeToolTip": "Vehicles\\Models\\Truck.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:28:22.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T12:28:22.692Z"
             },
             {
               "$type": "Document",
@@ -731,8 +721,7 @@
               "RelativeToolTip": "Vehicles\\IO\\ConsoleWriter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:56:34.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T12:56:34.455Z"
             },
             {
               "$type": "Document",
@@ -744,8 +733,7 @@
               "RelativeToolTip": "Vehicles\\Models\\Car.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:28:13.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T12:28:13.904Z"
             },
             {
               "$type": "Document",
@@ -757,8 +745,7 @@
               "RelativeToolTip": "Vehicles\\Models\\Interfaces\\IVehicle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:18:12.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T12:18:12.306Z"
             }
           ]
         }

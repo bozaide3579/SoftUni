@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\bin\Debug\net6.0\SumOfInteger.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\bin\Debug\net6.0\SumOfInteger.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\bin\Debug\net6.0\SumOfInteger.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\bin\Debug\net6.0\SumOfInteger.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\bin\Debug\net6.0\SumOfInteger.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\obj\Debug\net6.0\SumOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\obj\Debug\net6.0\SumOfInteger.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\obj\Debug\net6.0\SumOfInteger.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\obj\Debug\net6.0\SumOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\obj\Debug\net6.0\SumOfInteger.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\obj\Debug\net6.0\SumOfInteger.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\obj\Debug\net6.0\refint\SumOfInteger.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\obj\Debug\net6.0\SumOfInteger.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\obj\Debug\net6.0\SumOfInteger.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\11.ExeptionHandling\SumOfInteger\obj\Debug\net6.0\ref\SumOfInteger.dll

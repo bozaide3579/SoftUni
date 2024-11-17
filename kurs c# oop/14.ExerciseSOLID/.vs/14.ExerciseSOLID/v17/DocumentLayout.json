@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\14.exercisesolid\\logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|solutionrelative:logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\14.exercisesolid\\logger\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|solutionrelative:logger\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\14.exercisesolid\\logger\\appenders\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|solutionrelative:logger\\appenders\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\14.exercisesolid\\logger\\appenders\\baseappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|solutionrelative:logger\\appenders\\baseappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\14.exercisesolid\\logger\\layouts\\xmllayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|solutionrelative:logger\\layouts\\xmllayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\14.exercisesolid\\logger\\enums\\reportlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|solutionrelative:logger\\enums\\reportlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\14.exercisesolid\\logger\\interfaces\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|solutionrelative:logger\\interfaces\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\14.exercisesolid\\logger\\interfaces\\ilayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|solutionrelative:logger\\interfaces\\ilayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\14.exercisesolid\\logger\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|solutionrelative:logger\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\14.exercisesolid\\logger\\layouts\\simplelayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|solutionrelative:logger\\layouts\\simplelayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\14.exercisesolid\\logger\\loggers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED85A8E-59D3-41BB-B65B-7647831C8334}|Logger\\Logger.csproj|solutionrelative:logger\\loggers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XmlLayout.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Layouts\\XmlLayout.cs",
+              "RelativeDocumentMoniker": "Logger\\Layouts\\XmlLayout.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Layouts\\XmlLayout.cs",
+              "RelativeToolTip": "Logger\\Layouts\\XmlLayout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:40:01.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseAppender.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Appenders\\BaseAppender.cs",
+              "RelativeDocumentMoniker": "Logger\\Appenders\\BaseAppender.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Appenders\\BaseAppender.cs",
+              "RelativeToolTip": "Logger\\Appenders\\BaseAppender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:28:02.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileAppender.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Appenders\\FileAppender.cs",
+              "RelativeDocumentMoniker": "Logger\\Appenders\\FileAppender.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Appenders\\FileAppender.cs",
+              "RelativeToolTip": "Logger\\Appenders\\FileAppender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:11:53.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleAppender.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Appenders\\ConsoleAppender.cs",
+              "RelativeDocumentMoniker": "Logger\\Appenders\\ConsoleAppender.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Appenders\\ConsoleAppender.cs",
+              "RelativeToolTip": "Logger\\Appenders\\ConsoleAppender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:39:17.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Program.cs",
+              "RelativeDocumentMoniker": "Logger\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Program.cs",
+              "RelativeToolTip": "Logger\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:12:06.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Enums\\ReportLevel.cs",
+              "RelativeDocumentMoniker": "Logger\\Enums\\ReportLevel.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Enums\\ReportLevel.cs",
+              "RelativeToolTip": "Logger\\Enums\\ReportLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:41:00.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAppender.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Interfaces\\IAppender.cs",
+              "RelativeDocumentMoniker": "Logger\\Interfaces\\IAppender.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Interfaces\\IAppender.cs",
+              "RelativeToolTip": "Logger\\Interfaces\\IAppender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:15:43.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILayout.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Interfaces\\ILayout.cs",
+              "RelativeDocumentMoniker": "Logger\\Interfaces\\ILayout.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Interfaces\\ILayout.cs",
+              "RelativeToolTip": "Logger\\Interfaces\\ILayout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:15:27.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Interfaces\\ILogger.cs",
+              "RelativeDocumentMoniker": "Logger\\Interfaces\\ILogger.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Interfaces\\ILogger.cs",
+              "RelativeToolTip": "Logger\\Interfaces\\ILogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:15:57.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SimpleLayout.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Layouts\\SimpleLayout.cs",
+              "RelativeDocumentMoniker": "Logger\\Layouts\\SimpleLayout.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Layouts\\SimpleLayout.cs",
+              "RelativeToolTip": "Logger\\Layouts\\SimpleLayout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:30:40.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Loggers\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger\\Loggers\\Logger.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\14.ExerciseSOLID\\Logger\\Loggers\\Logger.cs",
+              "RelativeToolTip": "Logger\\Loggers\\Logger.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:44:12.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
