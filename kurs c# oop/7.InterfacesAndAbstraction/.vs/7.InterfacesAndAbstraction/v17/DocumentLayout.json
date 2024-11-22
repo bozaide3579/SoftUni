@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|solutionrelative:cars\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\7.interfacesandabstraction\\cars\\basecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|solutionrelative:cars\\basecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\7.interfacesandabstraction\\cars\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|solutionrelative:cars\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|solutionrelative:cars\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\7.interfacesandabstraction\\cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|solutionrelative:cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\7.interfacesandabstraction\\cars\\ielectriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|solutionrelative:cars\\ielectriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\7.interfacesandabstraction\\cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|solutionrelative:cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\7.interfacesandabstraction\\cars\\basecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3893194D-F7CC-401A-A1D4-247C0C83007D}|Cars\\Cars.csproj|solutionrelative:cars\\basecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{360C8D73-D269-42E1-B537-36EBC3BA278A}|Shapes\\Shapes.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\7.interfacesandabstraction\\shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "BaseCar.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\7.InterfacesAndAbstraction\\Cars\\BaseCar.cs",
               "RelativeDocumentMoniker": "Cars\\BaseCar.cs",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Seat.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\7.InterfacesAndAbstraction\\Cars\\Seat.cs",
               "RelativeDocumentMoniker": "Cars\\Seat.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ICar.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\7.InterfacesAndAbstraction\\Cars\\ICar.cs",
               "RelativeDocumentMoniker": "Cars\\ICar.cs",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\7.InterfacesAndAbstraction\\Cars\\StartUp.cs",
               "RelativeDocumentMoniker": "Cars\\StartUp.cs",
@@ -140,8 +140,7 @@
               "RelativeToolTip": "Shapes\\Circle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T15:30:30.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T15:30:30.712Z"
             },
             {
               "$type": "Document",
@@ -153,8 +152,7 @@
               "RelativeToolTip": "Shapes\\Rectangle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T15:27:13.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T15:27:13.055Z"
             },
             {
               "$type": "Document",
@@ -166,8 +164,7 @@
               "RelativeToolTip": "Shapes\\IDrawable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T15:26:18.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T15:26:18.049Z"
             },
             {
               "$type": "Document",
@@ -179,8 +176,7 @@
               "RelativeToolTip": "Shapes\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T21:00:58.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T21:00:58.913Z"
             }
           ]
         }
