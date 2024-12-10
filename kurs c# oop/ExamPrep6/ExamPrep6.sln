@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HighwayToPeak", "HighwayToPeak.csproj", "{19DEF7C9-4182-4331-BFF9-93EA58C7DD24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DEF7C9-4182-4331-BFF9-93EA58C7DD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DEF7C9-4182-4331-BFF9-93EA58C7DD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DEF7C9-4182-4331-BFF9-93EA58C7DD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DEF7C9-4182-4331-BFF9-93EA58C7DD24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4934BF25-C40E-4059-8B54-2E705D90B4BB}
+	EndGlobalSection
+EndGlobal

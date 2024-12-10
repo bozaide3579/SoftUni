@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep4\\thecontentdepartment\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep4\\thecontentdepartment\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep4\\thecontentdepartment\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep4\\thecontentdepartment\\models\\contentmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\contentmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep4\\thecontentdepartment\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep4\\thecontentdepartment\\models\\presentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\presentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep4\\thecontentdepartment\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep4\\thecontentdepartment\\utilities\\results\\ecpected.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\utilities\\results\\ecpected.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep4\\thecontentdepartment\\models\\teamlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\teamlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep4\\thecontentdepartment\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep4\\thecontentdepartment\\repositories\\resourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\repositories\\resourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep4\\thecontentdepartment\\models\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270A2B25-5DFF-4313-9C74-F337AD08E919}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContentMember.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\ContentMember.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\ContentMember.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\ContentMember.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\ContentMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:52:20.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\TeamMember.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\TeamMember.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\TeamMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:33:36.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Repositories\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "TheContentDepartment\\Repositories\\MemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:06:07.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Core\\Controller.cs",
+              "RelativeToolTip": "TheContentDepartment\\Core\\Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:57:18.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\Exam.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:31:42.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Presentation.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\Presentation.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\Presentation.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\Presentation.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\Presentation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:33:06.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\Resource.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\Resource.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\Resource.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\Resource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:16:33.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ecpected.txt",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Utilities\\Results\\Ecpected.txt",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Utilities\\Results\\Ecpected.txt",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Utilities\\Results\\Ecpected.txt",
+              "RelativeToolTip": "TheContentDepartment\\Utilities\\Results\\Ecpected.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-05T19:04:52.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeamLead.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\TeamLead.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\TeamLead.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\TeamLead.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\TeamLead.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:41:24.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Core\\Engine.cs",
+              "RelativeToolTip": "TheContentDepartment\\Core\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:56:55.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Repositories\\ResourceRepository.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Repositories\\ResourceRepository.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Repositories\\ResourceRepository.cs",
+              "RelativeToolTip": "TheContentDepartment\\Repositories\\ResourceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:59:36.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Workshop.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\Workshop.cs",
+              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\Workshop.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep4\\TheContentDepartment\\Models\\Workshop.cs",
+              "RelativeToolTip": "TheContentDepartment\\Models\\Workshop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:32:33.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

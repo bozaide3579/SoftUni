@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\obj\Debug\net6.0\refint\TheContentDepartment.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep4\TheContentDepartment\obj\Debug\net6.0\ref\TheContentDepartment.dll

@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\obj\Debug\net6.0\FootballManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\obj\Debug\net6.0\FootballManager.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\obj\Debug\net6.0\FootballManager.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\obj\Debug\net6.0\FootballManager.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\obj\Debug\net6.0\FootballManager.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\bin\Debug\net6.0\FootballManager.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\bin\Debug\net6.0\FootballManager.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\bin\Debug\net6.0\FootballManager.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\bin\Debug\net6.0\FootballManager.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\bin\Debug\net6.0\FootballManager.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\obj\Debug\net6.0\FootballManager.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\obj\Debug\net6.0\refint\FootballManager.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\obj\Debug\net6.0\FootballManager.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\obj\Debug\net6.0\FootballManager.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep1\FootballManager\obj\Debug\net6.0\ref\FootballManager.dll

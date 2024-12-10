@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\bin\Debug\net6.0\BlackFriday.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\bin\Debug\net6.0\BlackFriday.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\bin\Debug\net6.0\BlackFriday.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\bin\Debug\net6.0\BlackFriday.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\bin\Debug\net6.0\BlackFriday.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\obj\Debug\net6.0\BlackFriday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\obj\Debug\net6.0\BlackFriday.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\obj\Debug\net6.0\BlackFriday.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\obj\Debug\net6.0\BlackFriday.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\obj\Debug\net6.0\BlackFriday.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\obj\Debug\net6.0\BlackFriday.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\obj\Debug\net6.0\refint\BlackFriday.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\obj\Debug\net6.0\BlackFriday.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\obj\Debug\net6.0\BlackFriday.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\Exam\BlackFriday\obj\Debug\net6.0\ref\BlackFriday.dll

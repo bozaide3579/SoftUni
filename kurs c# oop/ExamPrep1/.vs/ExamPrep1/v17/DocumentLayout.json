@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F08AFA2-6980-4B86-99C6-886674CC18D2}|Championship.Tests\\Championship.Tests.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep1\\championship.tests\\leaguetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F08AFA2-6980-4B86-99C6-886674CC18D2}|Championship.Tests\\Championship.Tests.csproj|solutionrelative:championship.tests\\leaguetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep1\\footballmanager\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep1\\footballmanager\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep1\\footballmanager\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep1\\footballmanager\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep1\\footballmanager\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep1\\footballmanager\\models\\seniormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\seniormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep1\\footballmanager\\models\\professionalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\professionalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep1\\footballmanager\\utilities\\results\\expected.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\utilities\\results\\expected.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\examprep1\\footballmanager\\models\\amateurmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96A84-A75D-401E-ABC9-99617410D483}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\amateurmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Models\\Manager.cs",
+              "RelativeToolTip": "FootballManager\\Models\\Manager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:07:11.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Repositories\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "FootballManager\\Repositories\\TeamRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowEcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:19:58.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Core\\Engine.cs",
+              "RelativeToolTip": "FootballManager\\Core\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:40:48.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Core\\Controller.cs",
+              "RelativeToolTip": "FootballManager\\Core\\Controller.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAmwMEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:42:15.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeagueTests.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\Championship.Tests\\LeagueTests.cs",
+              "RelativeDocumentMoniker": "Championship.Tests\\LeagueTests.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\Championship.Tests\\LeagueTests.cs",
+              "RelativeToolTip": "Championship.Tests\\LeagueTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:32:39.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Models\\Team.cs",
+              "RelativeToolTip": "FootballManager\\Models\\Team.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:40:52.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeniorManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Models\\SeniorManager.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\SeniorManager.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Models\\SeniorManager.cs",
+              "RelativeToolTip": "FootballManager\\Models\\SeniorManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:37:17.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfessionalManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Models\\ProfessionalManager.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\ProfessionalManager.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Models\\ProfessionalManager.cs",
+              "RelativeToolTip": "FootballManager\\Models\\ProfessionalManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:39:15.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Expected.txt",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Utilities\\Results\\Expected.txt",
+              "RelativeDocumentMoniker": "FootballManager\\Utilities\\Results\\Expected.txt",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Utilities\\Results\\Expected.txt",
+              "RelativeToolTip": "FootballManager\\Utilities\\Results\\Expected.txt",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-30T16:37:55.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AmateurManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Models\\AmateurManager.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\AmateurManager.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\ExamPrep1\\FootballManager\\Models\\AmateurManager.cs",
+              "RelativeToolTip": "FootballManager\\Models\\AmateurManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:22:59.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

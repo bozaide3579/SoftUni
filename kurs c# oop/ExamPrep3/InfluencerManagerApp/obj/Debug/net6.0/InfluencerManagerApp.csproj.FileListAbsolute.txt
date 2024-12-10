@@ -1,0 +1,15 @@
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.exe
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.deps.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.runtimeconfig.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfoInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfo.cs
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.sourcelink.json
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\obj\Debug\net6.0\refint\InfluencerManagerApp.dll
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.pdb
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.genruntimeconfig.cache
+C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs c# oop\ExamPrep3\InfluencerManagerApp\obj\Debug\net6.0\ref\InfluencerManagerApp.dll
