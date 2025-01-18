@@ -197,3 +197,8 @@ SELECT MountainRange, PeakName, Elevation FROM Peaks
 JOIN Mountains ON Peaks.MountainId = Mountains.Id
 WHERE MountainRange = 'Rila'
 ORDER BY Elevation DESC
+
+--10
+SELECT EmployeeID, FirstName, LastName, Salary
+FROM Employees
+WHERE Salary BETWEEN 10000 AND 50000
