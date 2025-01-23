@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\models\\contracts\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\contracts\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,24 +71,8 @@
       "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\models\\contracts\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\contracts\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\models\\contracts\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\contracts\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E6F4917-2D08-4D08-AEDD-C731EB8CF712}|BlackFriday\\BlackFriday.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs c# oop\\exam\\blackfriday\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,76 +86,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Actual.txt",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Utilities\\Results\\Actual.txt",
-              "RelativeDocumentMoniker": "BlackFriday\\Utilities\\Results\\Actual.txt",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Utilities\\Results\\Actual.txt",
-              "RelativeToolTip": "BlackFriday\\Utilities\\Results\\Actual.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-08T08:52:20.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Admin.cs",
-              "RelativeDocumentMoniker": "BlackFriday\\Models\\Admin.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Admin.cs",
-              "RelativeToolTip": "BlackFriday\\Models\\Admin.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:47:17.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "BlackFriday\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Client.cs",
-              "RelativeToolTip": "BlackFriday\\Models\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:32:25.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Application.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Application.cs",
-              "RelativeDocumentMoniker": "BlackFriday\\Models\\Application.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Application.cs",
-              "RelativeToolTip": "BlackFriday\\Models\\Application.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T08:11:01.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Expected.txt",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Utilities\\Results\\Expected.txt",
-              "RelativeDocumentMoniker": "BlackFriday\\Utilities\\Results\\Expected.txt",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Utilities\\Results\\Expected.txt",
-              "RelativeToolTip": "BlackFriday\\Utilities\\Results\\Expected.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-08T08:52:21.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\User.cs",
               "RelativeDocumentMoniker": "BlackFriday\\Models\\User.cs",
@@ -168,20 +103,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Controller.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Core\\Controller.cs",
               "RelativeDocumentMoniker": "BlackFriday\\Core\\Controller.cs",
               "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Core\\Controller.cs",
               "RelativeToolTip": "BlackFriday\\Core\\Controller.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAowEkAAAA7AAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowEkAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T08:05:50.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\NetTraderSystem.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "NetTraderSystem.Tests\\UnitTest1.cs",
@@ -189,12 +124,11 @@
               "RelativeToolTip": "NetTraderSystem.Tests\\UnitTest1.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAcwBgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T10:28:04.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T10:28:04.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "TradingPlatform.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\NetTraderSystem\\TradingPlatform.cs",
               "RelativeDocumentMoniker": "NetTraderSystem\\TradingPlatform.cs",
@@ -202,12 +136,11 @@
               "RelativeToolTip": "NetTraderSystem\\TradingPlatform.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwC4AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T10:32:16.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T10:32:16.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Product.cs",
               "RelativeDocumentMoniker": "BlackFriday\\Models\\Product.cs",
@@ -215,12 +148,11 @@
               "RelativeToolTip": "BlackFriday\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:02:27.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T07:02:27.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Service.cs",
               "RelativeDocumentMoniker": "BlackFriday\\Models\\Service.cs",
@@ -233,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Engine.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Core\\Engine.cs",
               "RelativeDocumentMoniker": "BlackFriday\\Core\\Engine.cs",
@@ -241,12 +173,11 @@
               "RelativeToolTip": "BlackFriday\\Core\\Engine.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAowBAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T08:05:41.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T08:05:41.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Item.cs",
               "RelativeDocumentMoniker": "BlackFriday\\Models\\Item.cs",
@@ -254,12 +185,11 @@
               "RelativeToolTip": "BlackFriday\\Models\\Item.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:10:36.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T07:10:36.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "IUser.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Contracts\\IUser.cs",
               "RelativeDocumentMoniker": "BlackFriday\\Models\\Contracts\\IUser.cs",
@@ -272,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "IProduct.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Contracts\\IProduct.cs",
               "RelativeDocumentMoniker": "BlackFriday\\Models\\Contracts\\IProduct.cs",
@@ -280,12 +210,11 @@
               "RelativeToolTip": "BlackFriday\\Models\\Contracts\\IProduct.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T08:01:46.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T08:01:46.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
               "Title": "OutputMessages.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Utilities\\Messages\\OutputMessages.cs",
               "RelativeDocumentMoniker": "BlackFriday\\Utilities\\Messages\\OutputMessages.cs",
@@ -298,20 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "BlackFriday\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "BlackFriday\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:55:14.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 3,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "BlackFriday\\Repositories\\ProductRepository.cs",
@@ -324,6 +240,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BlackFriday\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:55:14.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Client.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:32:25.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Expected.txt",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Utilities\\Results\\Expected.txt",
+              "RelativeDocumentMoniker": "BlackFriday\\Utilities\\Results\\Expected.txt",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Utilities\\Results\\Expected.txt",
+              "RelativeToolTip": "BlackFriday\\Utilities\\Results\\Expected.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-08T08:52:21.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Application.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Application.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:11:01.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Models\\Admin.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Admin.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:47:17.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Actual.txt",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Utilities\\Results\\Actual.txt",
+              "RelativeDocumentMoniker": "BlackFriday\\Utilities\\Results\\Actual.txt",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\Utilities\\Results\\Actual.txt",
+              "RelativeToolTip": "BlackFriday\\Utilities\\Results\\Actual.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-08T08:52:20.549Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs c# oop\\Exam\\BlackFriday\\StartUp.cs",
@@ -332,8 +322,7 @@
               "RelativeToolTip": "BlackFriday\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T08:37:36.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T08:37:36.4Z"
             }
           ]
         }
