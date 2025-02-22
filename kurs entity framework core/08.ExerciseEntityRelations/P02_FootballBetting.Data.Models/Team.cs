@@ -43,7 +43,7 @@ namespace P02_FootballBetting.Data.Models
 
 		public int TownId { get; set; }
 		[ForeignKey(nameof(TownId))]
-		public virtual Color Town { get; set; }
+		public virtual Town Town { get; set; }
 
         public virtual ICollection<Player> Players { get; set; }
 

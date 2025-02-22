@@ -13,7 +13,7 @@ namespace P02_FootballBetting.Data.Models
 	{
         public Player()
         {
-			PlayerStatistics = new HashSet<PlayerStatistic>();
+			PlayersStatistics = new HashSet<PlayerStatistic>();
         }
 
         [Key]
@@ -39,6 +39,6 @@ namespace P02_FootballBetting.Data.Models
 		[ForeignKey(nameof(TownId))]
 		public virtual Town Town { get; set; }
 
-        public virtual ICollection<PlayerStatistic> PlayerStatistics { get; set; }
+        public virtual ICollection<PlayerStatistic> PlayersStatistics { get; set; }
     }
 }

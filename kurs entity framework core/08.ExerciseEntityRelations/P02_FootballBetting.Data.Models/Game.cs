@@ -13,7 +13,7 @@ namespace P02_FootballBetting.Data.Models
 	{
         public Game()
         {
-            PlayerStatistics = new HashSet<PlayerStatistic>();
+            PlayersStatistics = new HashSet<PlayerStatistic>();
             Bets = new HashSet<Bet>();
         }
 
@@ -43,7 +43,7 @@ namespace P02_FootballBetting.Data.Models
 		[MaxLength(ValidationConstants.GameResultLength)]
 		public string Result { get; set; }
 
-		public virtual ICollection<PlayerStatistic> PlayerStatistics { get; set; }
+		public virtual ICollection<PlayerStatistic> PlayersStatistics { get; set; }
 
         public virtual ICollection<Bet> Bets { get; set; }
     }
