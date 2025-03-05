@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Migrations\\20250302141452_attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentSystem\\Migrations\\20250302141452_attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\14.exercisemigrationsinentityframeworkcore\\studentsystem\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\14.exercisemigrationsinentityframeworkcore\\studentsystem\\data\\models\\recource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\data\\models\\recource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\14.exercisemigrationsinentityframeworkcore\\studentsystem\\data\\studentsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\data\\studentsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Migrations\\20250302134924_FixedColumnName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentSystem\\Migrations\\20250302134924_FixedColumnName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Migrations\\20250301171947_AddRecourceModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentSystem\\Migrations\\20250301171947_AddRecourceModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\14.exercisemigrationsinentityframeworkcore\\studentsystem\\data\\models\\recourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\data\\models\\recourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\14.exercisemigrationsinentityframeworkcore\\studentsystem\\migrations\\20250301171230_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\migrations\\20250301171230_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\14.exercisemigrationsinentityframeworkcore\\studentsystem\\studentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\studentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\AcademicRecordsApp\\Migrations\\20250301170719_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcademicRecordsApp\\Migrations\\20250301170719_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A99DE8-3AE5-4CC6-A781-6ED0E3184654}|AcademicRecordsApp\\AcademicRecordsApp.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\14.exercisemigrationsinentityframeworkcore\\academicrecordsapp\\data\\academicrecordsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A99DE8-3AE5-4CC6-A781-6ED0E3184654}|AcademicRecordsApp\\AcademicRecordsApp.csproj|solutionrelative:academicrecordsapp\\data\\academicrecordsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\14.exercisemigrationsinentityframeworkcore\\studentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A8942C-A20B-4C6B-91E6-EDD31FDDBDAB}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A99DE8-3AE5-4CC6-A781-6ED0E3184654}|AcademicRecordsApp\\AcademicRecordsApp.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\14.exercisemigrationsinentityframeworkcore\\academicrecordsapp\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A99DE8-3AE5-4CC6-A781-6ED0E3184654}|AcademicRecordsApp\\AcademicRecordsApp.csproj|solutionrelative:academicrecordsapp\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\AcademicRecordsApp\\Models\\AcademicRecordsDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcademicRecordsApp\\Models\\AcademicRecordsDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250302141452_attempt.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Migrations\\20250302141452_attempt.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Migrations\\20250302141452_attempt.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Migrations\\20250302141452_attempt.cs",
+              "RelativeToolTip": "StudentSystem\\Migrations\\20250302141452_attempt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:14:52.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Data\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Data\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Data\\Models\\Course.cs",
+              "RelativeToolTip": "StudentSystem\\Data\\Models\\Course.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:54:04.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250302134924_FixedColumnName.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Migrations\\20250302134924_FixedColumnName.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Migrations\\20250302134924_FixedColumnName.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Migrations\\20250302134924_FixedColumnName.cs",
+              "RelativeToolTip": "StudentSystem\\Migrations\\20250302134924_FixedColumnName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:49:24.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250301171947_AddRecourceModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Migrations\\20250301171947_AddRecourceModel.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Migrations\\20250301171947_AddRecourceModel.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Migrations\\20250301171947_AddRecourceModel.cs",
+              "RelativeToolTip": "StudentSystem\\Migrations\\20250301171947_AddRecourceModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:19:48.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecourceType.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Data\\Models\\RecourceType.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Data\\Models\\RecourceType.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Data\\Models\\RecourceType.cs",
+              "RelativeToolTip": "StudentSystem\\Data\\Models\\RecourceType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:19:13.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recource.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Data\\Models\\Recource.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Data\\Models\\Recource.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Data\\Models\\Recource.cs",
+              "RelativeToolTip": "StudentSystem\\Data\\Models\\Recource.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:14:21.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250301171230_CreateDB.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Migrations\\20250301171230_CreateDB.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Migrations\\20250301171230_CreateDB.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Migrations\\20250301171230_CreateDB.cs",
+              "RelativeToolTip": "StudentSystem\\Migrations\\20250301171230_CreateDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:12:30.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentSystemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Data\\StudentSystemDbContext.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Data\\StudentSystemDbContext.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Data\\StudentSystemDbContext.cs",
+              "RelativeToolTip": "StudentSystem\\Data\\StudentSystemDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:48:11.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentSystem",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\StudentSystem.csproj",
+              "RelativeDocumentMoniker": "StudentSystem\\StudentSystem.csproj",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\StudentSystem.csproj",
+              "RelativeToolTip": "StudentSystem\\StudentSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T17:09:12.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250301170719_CreateDB.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\AcademicRecordsApp\\Migrations\\20250301170719_CreateDB.cs",
+              "RelativeDocumentMoniker": "AcademicRecordsApp\\Migrations\\20250301170719_CreateDB.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\AcademicRecordsApp\\Migrations\\20250301170719_CreateDB.cs",
+              "RelativeToolTip": "AcademicRecordsApp\\Migrations\\20250301170719_CreateDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:07:19.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AcademicRecordsDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\AcademicRecordsApp\\Data\\AcademicRecordsDBContext.cs",
+              "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\AcademicRecordsDBContext.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\AcademicRecordsApp\\Data\\AcademicRecordsDBContext.cs",
+              "RelativeToolTip": "AcademicRecordsApp\\Data\\AcademicRecordsDBContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:50:14.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\StudentSystem\\Program.cs",
+              "RelativeToolTip": "StudentSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:47:33.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\AcademicRecordsApp\\Data\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\AcademicRecordsApp\\Data\\Models\\Course.cs",
+              "RelativeToolTip": "AcademicRecordsApp\\Data\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:02:35.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AcademicRecordsDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\AcademicRecordsApp\\Models\\AcademicRecordsDBContext.cs",
+              "RelativeDocumentMoniker": "AcademicRecordsApp\\Models\\AcademicRecordsDBContext.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\14.ExerciseMigrationsInEntityFrameworkCore\\AcademicRecordsApp\\Models\\AcademicRecordsDBContext.cs",
+              "RelativeToolTip": "AcademicRecordsApp\\Models\\AcademicRecordsDBContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:44:34.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
