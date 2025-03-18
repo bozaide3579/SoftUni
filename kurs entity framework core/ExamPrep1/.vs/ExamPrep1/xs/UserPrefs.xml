@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{DA797B23-12F1-4724-8ADA-4496E58337DA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Invoices PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01-Model-Definition-Skeleton/Invoices/DataProcessor/Serializer.cs">
+    <Files>
+      <File FileName="01-Model-Definition-Skeleton/Invoices/StartUp.cs" Line="51" Column="13" />
+      <File FileName="01-Model-Definition-Skeleton/Invoices/Data/DataConstraints.cs" Line="25" Column="72" />
+      <File FileName="01-Model-Definition-Skeleton/Invoices/DataProcessor/ExportDto/ExportProductDto.cs" Line="15" Column="1" />
+      <File FileName="01-Model-Definition-Skeleton/Invoices/DataProcessor/ExportDto/ExportProductClientsDto.cs" Line="9" Column="3" />
+      <File FileName="01-Model-Definition-Skeleton/Invoices/DataProcessor/Serializer.cs" Line="24" Column="54" />
+      <File FileName="01-Model-Definition-Skeleton/Invoices/ExportResults/Actual Result - ExportProductsWithMostClients.json" Line="1" Column="1" />
+      <File FileName="01-Model-Definition-Skeleton/Invoices/ExportResults/Expected Result - ExportProductsWithMostClients.json" Line="1" Column="1" />
+      <File FileName="01-Model-Definition-Skeleton/Invoices/DataProcessor/ExportDto/ExportClientDto.cs" Line="13" Column="27" />
+      <File FileName="01-Model-Definition-Skeleton/Invoices/DataProcessor/ExportDto/ExportClientInvoiceDto.cs" Line="20" Column="48" />
+      <File FileName="01-Model-Definition-Skeleton/Invoices/ExportResults/Expected Result - ExportClientsWithTheirInvoices.xml" Line="1" Column="1" />
+      <File FileName="01-Model-Definition-Skeleton/Invoices/ExportResults/Actual Result - ExportClientsWithTheirInvoices.xml" Line="1" Column="1" />
+      <File FileName="01-Model-Definition-Skeleton/Invoices/Utilities/XmlHelper.cs" Line="18" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExamPrep1" expanded="True">
+            <Node name="Invoices" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Models" expanded="True">
+                  <Node name="Enums" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="DataProcessor" expanded="True">
+                <Node name="ExportDto" expanded="True" />
+                <Node name="Serializer.cs" selected="True" />
+              </Node>
+              <Node name="ExportResults" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
