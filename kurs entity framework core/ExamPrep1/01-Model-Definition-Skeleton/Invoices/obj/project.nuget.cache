@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pgij8m8rLpU=",
+  "dgSpecHash": "JdxFAN3q32E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj",
+  "projectFilePath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bozaide\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Bozaide\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",

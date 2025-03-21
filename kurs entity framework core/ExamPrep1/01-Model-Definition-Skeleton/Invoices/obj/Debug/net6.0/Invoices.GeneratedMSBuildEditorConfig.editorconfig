@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Invoices
-build_property.ProjectDir = C:\Users\Bozaide\OneDrive\Desktop\ExamPrep1\01-Model-Definition-Skeleton\Invoices\
+build_property.ProjectDir = C:\Users\Bozaide\OneDrive\Desktop\C#\SoftUni\kurs entity framework core\ExamPrep1\01-Model-Definition-Skeleton\Invoices\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

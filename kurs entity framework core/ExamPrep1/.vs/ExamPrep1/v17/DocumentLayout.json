@@ -1,7 +1,76 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\ExamPrep1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\dataprocessor\\exportdto\\exportproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\dataprocessor\\exportdto\\exportproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\dataprocessor\\exportdto\\exportproductclientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\dataprocessor\\exportdto\\exportproductclientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\dataprocessor\\exportdto\\exportclientinvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\dataprocessor\\exportdto\\exportclientinvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\dataprocessor\\exportdto\\exportclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\dataprocessor\\exportdto\\exportclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\dataprocessor\\importdto\\importproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\dataprocessor\\importdto\\importproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\dataprocessor\\importdto\\importinvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\dataprocessor\\importdto\\importinvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\dataprocessor\\importdto\\importclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\dataprocessor\\importdto\\importclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\dataprocessor\\importdto\\importadressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\dataprocessor\\importdto\\importadressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\data\\invoicescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\data\\invoicescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\data\\dataconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\data\\dataconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\data\\models\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\data\\models\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\data\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\data\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep1\\01-model-definition-skeleton\\invoices\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115C82C2-E543-4DD7-9C3A-F52EF7F8BF50}|01-Model-Definition-Skeleton\\Invoices\\Invoices.csproj|solutionrelative:01-model-definition-skeleton\\invoices\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +87,223 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAowBoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:47:33.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImportProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:07:49.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T22:28:31.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportProductClientsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportProductClientsDto.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportProductClientsDto.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportProductClientsDto.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportProductClientsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:50:05.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportClientDto.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportClientDto.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportClientDto.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportClientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:48:12.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportClientInvoiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportClientInvoiceDto.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportClientInvoiceDto.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportClientInvoiceDto.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportClientInvoiceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:04:13.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportProductDto.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportProductDto.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportProductDto.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:50:07.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImportInvoiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportInvoiceDto.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportInvoiceDto.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportInvoiceDto.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportInvoiceDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:55:26.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImportClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:50:20.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImportAdressDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportAdressDto.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportAdressDto.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportAdressDto.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportAdressDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:22:58.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvoicesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\InvoicesContext.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\Data\\InvoicesContext.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\InvoicesContext.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\Data\\InvoicesContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:37:10.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductClient.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\ProductClient.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\ProductClient.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\ProductClient.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\ProductClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:46:16.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Invoice.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:47:17.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataConstraints.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\DataConstraints.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\Data\\DataConstraints.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\DataConstraints.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\Data\\DataConstraints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:37:14.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Client.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:53:33.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Product.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:48:40.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep1\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Address.cs",
+              "RelativeToolTip": "01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:33:00.67Z"
             }
           ]
         }

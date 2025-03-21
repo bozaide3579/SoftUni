@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\data\\models\\boardgameseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\boardgameseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\data\\dataconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\dataconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\dataprocessor\\importdto\\importsellerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\importdto\\importsellerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\dataprocessor\\importdto\\importboardgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\importdto\\importboardgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\dataprocessor\\exportdto\\exportcreatordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\exportdto\\exportcreatordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\dataprocessor\\exportdto\\exportboardgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\exportdto\\exportboardgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\dataprocessor\\importdto\\importcreatordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\importdto\\importcreatordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\boardgamesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\boardgamesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\exportresults\\actual result - exportsellerswithmostboardgames.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\exportresults\\actual result - exportsellerswithmostboardgames.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\exportresults\\expected result - exportsellerswithmostboardgames.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\exportresults\\expected result - exportsellerswithmostboardgames.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\exportresults\\expected result - exportcreatorswiththeirboardgames.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\exportresults\\expected result - exportcreatorswiththeirboardgames.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\exportresults\\actual result - exportcreatorswiththeirboardgames.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\exportresults\\actual result - exportcreatorswiththeirboardgames.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\data\\models\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\data\\models\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\data\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\importresults\\actual result - importcreators.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\importresults\\actual result - importcreators.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\importresults\\expected result - importcreators.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\importresults\\expected result - importcreators.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\data\\boardgamescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\boardgamescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep2\\boardgames\\data\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1751146F-FB2E-421C-BE62-8F986B9751A8}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XmlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Utilities\\XmlHelper.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Utilities\\XmlHelper.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Utilities\\XmlHelper.cs",
+              "RelativeToolTip": "Boardgames\\Utilities\\XmlHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:28:51.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImportBoardgameDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\ImportDto\\ImportBoardgameDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ImportDto\\ImportBoardgameDto.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\ImportDto\\ImportBoardgameDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ImportDto\\ImportBoardgameDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:28:08.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExportCreatorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\ExportDto\\ExportCreatorDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ExportDto\\ExportCreatorDto.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\ExportDto\\ExportCreatorDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ExportDto\\ExportCreatorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T22:34:54.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Expected Result - ExportCreatorsWithTheirBoardgames.xml",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\ExportResults\\Expected Result - ExportCreatorsWithTheirBoardgames.xml",
+              "RelativeDocumentMoniker": "Boardgames\\ExportResults\\Expected Result - ExportCreatorsWithTheirBoardgames.xml",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\ExportResults\\Expected Result - ExportCreatorsWithTheirBoardgames.xml",
+              "RelativeToolTip": "Boardgames\\ExportResults\\Expected Result - ExportCreatorsWithTheirBoardgames.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-18T22:59:59.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\Configuration.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:51:13.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataConstraints.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\DataConstraints.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\DataConstraints.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\DataConstraints.cs",
+              "RelativeToolTip": "Boardgames\\Data\\DataConstraints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:08:53.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwFcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:20:28.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:39:29.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImportSellerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\ImportDto\\ImportSellerDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ImportDto\\ImportSellerDto.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\ImportDto\\ImportSellerDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ImportDto\\ImportSellerDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:02:49.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoardgameSeller.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\Models\\BoardgameSeller.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\BoardgameSeller.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\Models\\BoardgameSeller.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\BoardgameSeller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:05:28.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Expected Result - ExportSellersWithMostBoardgames.json",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\ExportResults\\Expected Result - ExportSellersWithMostBoardgames.json",
+              "RelativeDocumentMoniker": "Boardgames\\ExportResults\\Expected Result - ExportSellersWithMostBoardgames.json",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\ExportResults\\Expected Result - ExportSellersWithMostBoardgames.json",
+              "RelativeToolTip": "Boardgames\\ExportResults\\Expected Result - ExportSellersWithMostBoardgames.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T23:00:02.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImportCreatorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\ImportDto\\ImportCreatorDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ImportDto\\ImportCreatorDto.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\ImportDto\\ImportCreatorDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ImportDto\\ImportCreatorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:15:29.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExportBoardgameDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\ExportDto\\ExportBoardgameDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ExportDto\\ExportBoardgameDto.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\DataProcessor\\ExportDto\\ExportBoardgameDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ExportDto\\ExportBoardgameDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T22:34:38.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Actual Result - ExportSellersWithMostBoardgames.json",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\ExportResults\\Actual Result - ExportSellersWithMostBoardgames.json",
+              "RelativeDocumentMoniker": "Boardgames\\ExportResults\\Actual Result - ExportSellersWithMostBoardgames.json",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\ExportResults\\Actual Result - ExportSellersWithMostBoardgames.json",
+              "RelativeToolTip": "Boardgames\\ExportResults\\Actual Result - ExportSellersWithMostBoardgames.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T23:00:01.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoardgamesProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\BoardgamesProfile.cs",
+              "RelativeDocumentMoniker": "Boardgames\\BoardgamesProfile.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\BoardgamesProfile.cs",
+              "RelativeToolTip": "Boardgames\\BoardgamesProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:01:40.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\ExportResults\\Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "RelativeDocumentMoniker": "Boardgames\\ExportResults\\Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\ExportResults\\Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "RelativeToolTip": "Boardgames\\ExportResults\\Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-18T22:59:56.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Boardgame.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\Models\\Boardgame.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Boardgame.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\Models\\Boardgame.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\Boardgame.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:46:20.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Seller.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\Models\\Seller.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\Seller.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:02:15.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\Models\\Creator.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Creator.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\Models\\Creator.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\Creator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:05:24.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\StartUp.cs",
+              "RelativeDocumentMoniker": "Boardgames\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\StartUp.cs",
+              "RelativeToolTip": "Boardgames\\StartUp.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:36:23.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Actual Result - ImportCreators.txt",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\ImportResults\\Actual Result - ImportCreators.txt",
+              "RelativeDocumentMoniker": "Boardgames\\ImportResults\\Actual Result - ImportCreators.txt",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\ImportResults\\Actual Result - ImportCreators.txt",
+              "RelativeToolTip": "Boardgames\\ImportResults\\Actual Result - ImportCreators.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-18T20:50:48.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Expected Result - ImportCreators.txt",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\ImportResults\\Expected Result - ImportCreators.txt",
+              "RelativeDocumentMoniker": "Boardgames\\ImportResults\\Expected Result - ImportCreators.txt",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\ImportResults\\Expected Result - ImportCreators.txt",
+              "RelativeToolTip": "Boardgames\\ImportResults\\Expected Result - ImportCreators.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-18T20:50:55.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BoardgamesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\BoardgamesContext.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\BoardgamesContext.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\BoardgamesContext.cs",
+              "RelativeToolTip": "Boardgames\\Data\\BoardgamesContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:51:12.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep2\\Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:46:17.399Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
