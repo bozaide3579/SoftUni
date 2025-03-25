@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep5\\netpay\\data\\netpaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|solutionrelative:data\\netpaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep5\\netpay\\data\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|solutionrelative:data\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep5\\netpay\\data\\models\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|solutionrelative:data\\models\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep5\\netpay\\data\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|solutionrelative:data\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep5\\netpay\\data\\models\\household.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|solutionrelative:data\\models\\household.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep5\\netpay\\data\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|solutionrelative:data\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep5\\netpay\\data\\dataconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|solutionrelative:data\\dataconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|c:\\users\\bozaide\\onedrive\\desktop\\c#\\softuni\\kurs entity framework core\\examprep5\\netpay\\data\\models\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4092E4B-5A8F-43AF-A764-DEBA570D87ED}|NetPay.csproj|solutionrelative:data\\models\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\Models\\SupplierService.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\Models\\SupplierService.cs",
+              "RelativeToolTip": "Data\\Models\\SupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:49:34.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\Models\\Supplier.cs",
+              "RelativeToolTip": "Data\\Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:47:43.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\Models\\Service.cs",
+              "RelativeToolTip": "Data\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:38:31.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\Models\\Expense.cs",
+              "RelativeToolTip": "Data\\Models\\Expense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:30:36.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\Models\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Enums\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\Models\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "Data\\Models\\Enums\\PaymentStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:23:17.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataConstraints.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\DataConstraints.cs",
+              "RelativeDocumentMoniker": "Data\\DataConstraints.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\DataConstraints.cs",
+              "RelativeToolTip": "Data\\DataConstraints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:18:36.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Household.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\Models\\Household.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Household.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\Models\\Household.cs",
+              "RelativeToolTip": "Data\\Models\\Household.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:18:18.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetPayContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\NetPayContext.cs",
+              "RelativeDocumentMoniker": "Data\\NetPayContext.cs",
+              "ToolTip": "C:\\Users\\Bozaide\\OneDrive\\Desktop\\C#\\SoftUni\\kurs entity framework core\\ExamPrep5\\NetPay\\Data\\NetPayContext.cs",
+              "RelativeToolTip": "Data\\NetPayContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:32:31.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
